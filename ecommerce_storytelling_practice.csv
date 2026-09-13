@@ -1,0 +1,609 @@
+Order_ID,Order_Date,Region,Customer_ID,Customer_Age,Customer_Segment,Channel,Product_Category,Quantity,Unit_Price,Discount_Pct,Revenue,Gross_Profit,Marketing_Spend,Shipping_Cost,Return,Order_Status,Customer_Satisfaction,Payment_Method
+ORD10280,2025-02-23,South,1139,39.0,SMB,Website,Sports,1,3808.0,15.0,3236.8,1035.78,2703.64,343.93,No,Delivered,3.6,Credit Card
+ORD10556,2025-05-20,North,1055,30.0,Consumer,Website,Home & Kitchen,2,10075.0,5.0,19142.5,4594.2,2993.3,115.26,No,Delivered,4.4,UPI
+ORD10365,2025-06-02,South,1047,29.0,Consumer,Marketplace,Home & Kitchen,2,8175.0,5.0,15532.5,3727.8,1876.58,360.11,No,Delivered,4.0,Debit Card
+ORD10087,2025-01-15,North,1146,39.0,Consumer,Marketplace,Beauty,1,1745.0,5.0,1657.75,745.99,584.59,424.65,No,Delivered,4.3,Net Banking
+ORD10011,2025-03-29,East,1141,36.0,Consumer,Website,Fashion,2,3206.0,15.0,5450.2,2071.08,2023.55,474.33,No,Delivered,3.9,Credit Card
+ORD10172,2025-03-03,South,1043,48.0,Consumer,Mobile App,Electronics,1,28823.0,20.0,23058.4,3228.18,675.31,152.67,No,Delivered,4.2,Net Banking
+ORD10108,2025-03-13,North,1149,48.0,SMB,Mobile App,Fashion,3,2834.0,5.0,8076.9,3069.22,2325.7,411.04,No,Delivered,5.0,Debit Card
+ORD10004,2025-01-15,East,1079,32.0,Consumer,Marketplace,Home & Kitchen,1,9066.0,25.0,6799.5,1631.88,,296.09,No,Delivered,4.5,Net Banking
+ORD10544,2025-04-15,South,1144,55.0,Consumer,Website,Electronics,1,24105.0,10.0,21694.5,3037.23,626.02,444.79,No,Delivered,4.5,Net Banking
+ORD10049,2025-01-09,West,1051,18.0,Consumer,Mobile App,Home & Kitchen,1,8900.0,5.0,8455.0,2029.2,2987.78,376.36,No,Delivered,4.2,Debit Card
+ORD10517,2025-06-11,South,1067,58.0,Consumer,Marketplace,Home & Kitchen,2,7565.0,15.0,12860.5,3086.52,1104.62,423.18,No,Delivered,3.7,Credit Card
+ORD10539,2025-01-12,West,1122,33.0,SMB,Website,Fashion,5,3221.0,20.0,12884.0,4895.92,400.97,272.25,No,Delivered,3.8,UPI
+ORD10580,2025-02-11,South,1089,35.0,SMB,Mobile App,Beauty,1,1631.0,10.0,1467.9,660.56,1087.57,410.33,No,Delivered,5.0,Debit Card
+ORD10416,2025-01-13,South,1004,33.0,Consumer,Marketplace,Sports,4,3242.0,0.0,12968.0,4149.76,1340.99,199.2,No,Delivered,4.5,Debit Card
+ORD10156,2025-04-18,South,1022,38.0,Enterprise,Website,Electronics,1,28181.0,0.0,28181.0,3945.34,2983.22,468.85,No,Delivered,4.3,Credit Card
+ORD10279,2025-03-23,East,1142,30.0,Enterprise,Website,Beauty,4,1478.0,15.0,5025.2,2261.34,843.41,457.89,No,Delivered,5.0,Debit Card
+ORD10368,2025-03-01,North,1144,49.0,Consumer,Mobile App,Beauty,1,2054.0,15.0,1745.9,785.66,527.51,138.67,Yes,Delivered,3.0,Debit Card
+ORD10033,2025-06-24,West,1107,40.0,Consumer,Marketplace,Electronics,4,30596.0,5.0,116264.8,16277.07,683.38,153.78,No,Delivered,4.4,Debit Card
+ORD10568,2025-04-09,East,1146,49.0,Consumer,Retail Store,Sports,2,3878.0,15.0,6592.6,2109.63,945.34,118.86,No,Delivered,4.9,Net Banking
+ORD10378,2025-04-25,North,1105,48.0,Enterprise,Marketplace,Beauty,1,1970.0,10.0,1773.0,797.85,1698.81,473.82,No,Delivered,4.5,Debit Card
+ORD10343,2025-04-14,South,1042,37.0,Consumer,Mobile App,Electronics,3,28848.0,0.0,86544.0,12116.16,1266.5,169.32,No,Delivered,5.0,COD
+ORD10007,2025-01-21,North,1150,31.0,SMB,Marketplace,Fashion,1,3191.0,10.0,2871.9,1091.32,1914.17,231.08,No,Delivered,4.2,Debit Card
+ORD10082,2025-01-24,South,1047,56.0,SMB,Website,Sports,3,3503.0,25.0,7881.75,2522.16,304.44,216.22,No,Delivered,4.0,UPI
+ORD10547,2025-04-23,South,1051,50.0,SMB,Marketplace,Home & Kitchen,1,6747.0,5.0,6409.65,1538.32,1502.24,323.43,No,Delivered,4.4,COD
+ORD10422,2025-05-25,North,1084,59.0,Consumer,Website,Sports,2,3248.0,15.0,5521.6,1766.91,488.24,295.39,No,Delivered,4.5,COD
+ORD10376,2025-05-24,South,1096,44.0,Enterprise,Website,Electronics,1,29042.0,10.0,26137.8,3659.29,679.48,320.56,Yes,Delivered,3.3,Debit Card
+ORD10600,2025-05-02,South,1001,50.0,Enterprise,Mobile App,Fashion,3,2963.0,5.0,8444.55,3208.93,2452.96,380.28,Yes,Delivered,3.4,UPI
+ORD10145,2025-06-09,South,1115,45.0,Enterprise,Marketplace,Beauty,2,1455.0,10.0,2619.0,1178.55,465.85,140.29,No,Delivered,4.1,Credit Card
+ORD10306,2025-01-27,South,1009,54.0,SMB,Website,Electronics,1,31979.0,5.0,30380.05,4253.21,2961.57,391.77,No,Delivered,3.9,Net Banking
+ORD10582,2025-05-22,North,1116,24.0,SMB,Website,Home & Kitchen,1,6847.0,20.0,5477.6,1314.62,922.04,208.48,No,Delivered,4.8,Debit Card
+ORD10192,2025-03-22,North,1037,36.0,SMB,Mobile App,Home & Kitchen,1,7975.0,15.0,6778.75,1626.9,2540.52,436.98,No,Delivered,4.4,Credit Card
+ORD10599,2025-01-27,South,1014,43.0,Consumer,Retail Store,Fashion,2,2670.0,15.0,4539.0,1724.82,653.86,421.72,No,Cancelled,4.4,COD
+ORD10454,2025-06-28,West,1145,43.0,SMB,Website,Home & Kitchen,1,6558.0,15.0,5574.3,1337.83,1447.37,321.05,Yes,Returned,3.3,Credit Card
+ORD10432,2025-05-07,East,1102,26.0,Enterprise,Marketplace,Sports,2,3606.0,10.0,6490.8,2077.06,434.09,288.84,Yes,Delivered,3.3,Debit Card
+ORD10028,2025-03-30,South,1057,49.0,Consumer,Mobile App,Home & Kitchen,1,6555.0,0.0,6555.0,1573.2,2821.44,248.71,No,Delivered,4.2,Debit Card
+ORD10178,2025-04-28,South,1129,25.0,Consumer,Retail Store,Electronics,1,25725.0,20.0,20580.0,2881.2,1656.66,138.37,No,Delivered,3.8,Net Banking
+ORD10289,2025-05-28,West,1010,51.0,Consumer,Retail Store,Fashion,2,2664.0,10.0,4795.2,1822.18,884.76,115.81,No,Delivered,4.1,COD
+ORD10410,2025-02-16,North,1139,57.0,Consumer,Mobile App,Sports,2,5099.0,5.0,9688.1,3100.19,1055.02,189.37,No,Delivered,4.6,Net Banking
+ORD10051,2025-02-22,North,1106,48.0,Enterprise,Retail Store,Fashion,3,2506.0,15.0,6390.3,2428.31,898.1,132.35,No,Delivered,3.8,COD
+ORD10268,2025-06-13,North,1133,34.0,Consumer,Marketplace,Electronics,2,28089.0,5.0,53369.1,7471.67,1840.11,132.34,No,Delivered,4.1,Credit Card
+ORD10210,2025-01-24,South,1069,57.0,Consumer,Mobile App,Electronics,2,28181.0,5.0,53543.9,7496.15,1659.96,186.67,No,Delivered,4.6,UPI
+ORD10457,2025-03-10,North,1112,,Enterprise,Website,Electronics,3,27215.0,10.0,73480.5,10287.27,1778.3,287.23,No,Delivered,4.3,COD
+ORD10189,2025-04-23,East,1082,32.0,Consumer,Retail Store,Home & Kitchen,5,9025.0,0.0,45125.0,10830.0,2192.53,410.26,No,Delivered,4.0,Credit Card
+ORD10112,2025-02-17,West,1140,20.0,Enterprise,Website,Fashion,1,3388.0,5.0,3218.6,1223.07,1520.95,394.45,No,Delivered,4.3,Net Banking
+ORD10203,2025-06-21,South,1138,24.0,Enterprise,Website,Fashion,1,3657.0,15.0,3108.45,1181.21,1004.48,210.06,Yes,Returned,3.7,Debit Card
+ORD10016,2025-05-11,South,1128,27.0,Enterprise,Mobile App,Electronics,5,22541.0,0.0,112705.0,15778.7,538.01,442.73,No,Delivered,4.5,UPI
+ORD10218,2025-03-11,South,1105,34.0,Consumer,Mobile App,Sports,1,3245.0,10.0,2920.5,934.56,2009.81,293.84,No,Delivered,4.2,COD
+ORD10037,2025-03-05,West,1119,19.0,Enterprise,Website,Home & Kitchen,3,8308.0,0.0,24924.0,5981.76,1127.01,164.59,No,Delivered,5.0,Credit Card
+ORD10065,2025-01-02,South,1058,48.0,SMB,Retail Store,Home & Kitchen,2,7227.0,15.0,12285.9,2948.62,2646.77,335.99,No,Delivered,4.4,Credit Card
+ORD10263,2025-06-10,East,1010,18.0,Consumer,Mobile App,Fashion,3,3445.0,10.0,9301.5,3534.57,1372.63,266.74,No,Cancelled,4.2,UPI
+ORD10274,2025-06-02,South,1107,28.0,Consumer,Mobile App,Home & Kitchen,2,8683.0,15.0,14761.1,3542.66,518.58,271.13,No,Delivered,4.6,Net Banking
+ORD10428,2025-03-31,East,1076,47.0,SMB,Mobile App,Home & Kitchen,2,9563.0,25.0,14344.5,3442.68,2628.72,109.73,No,Delivered,4.9,COD
+ORD10075,2025-04-05,West,1056,60.0,Consumer,Website,Fashion,1,3034.0,10.0,2730.6,1037.63,424.37,104.04,Yes,Delivered,2.6,UPI
+ORD10031,2025-06-19,South,1121,34.0,SMB,Mobile App,Fashion,1,3918.0,25.0,2938.5,1116.63,2205.22,353.35,No,Delivered,4.4,UPI
+ORD10338,2025-01-18,South,1057,59.0,SMB,Website,Electronics,4,22482.0,20.0,71942.4,10071.94,2100.18,306.46,No,Delivered,4.3,Net Banking
+ORD10127,2025-01-27,East,1026,50.0,Enterprise,Retail Store,Home & Kitchen,1,7186.0,25.0,5389.5,1293.48,2693.56,118.03,Yes,Returned,4.5,UPI
+ORD10561,2025-05-08,East,1105,48.0,Consumer,Website,Electronics,3,28739.0,0.0,86217.0,12070.38,954.09,105.94,Yes,Delivered,2.6,UPI
+ORD10175,2025-06-21,East,1126,42.0,SMB,Mobile App,Electronics,1,24539.0,0.0,24539.0,3435.46,873.17,176.73,Yes,Delivered,3.4,COD
+ORD10282,2025-06-18,West,1042,39.0,Consumer,Website,Sports,1,3337.0,10.0,3003.3,961.06,310.36,96.28,No,Cancelled,4.5,COD
+ORD10437,2025-05-02,West,1019,40.0,Consumer,Website,Electronics,1,23188.0,15.0,19709.8,2759.37,1210.62,93.87,Yes,Delivered,2.4,Debit Card
+ORD10050,2025-03-31,West,1102,34.0,Consumer,Website,Fashion,1,3524.0,5.0,3347.8,1272.16,2761.09,299.05,No,Delivered,4.1,COD
+ORD10119,2025-02-04,South,1097,52.0,Consumer,Website,Fashion,3,2679.0,15.0,6831.45,2595.95,385.65,103.4,No,Delivered,4.1,Credit Card
+ORD10008,2025-04-13,West,1046,46.0,Consumer,Retail Store,Fashion,2,3778.0,15.0,6422.6,2440.59,521.31,305.19,No,Delivered,4.1,COD
+ORD10207,2025-05-03,North,1137,41.0,Enterprise,Website,Home & Kitchen,1,9361.0,10.0,8424.9,2021.98,2602.9,108.95,No,Delivered,4.3,Debit Card
+ORD10288,2025-02-17,West,1081,49.0,Consumer,Mobile App,Beauty,2,1529.0,15.0,2599.3,1169.69,1647.84,425.97,No,Delivered,4.2,Credit Card
+ORD10421,2025-05-27,East,1091,60.0,Consumer,Marketplace,Home & Kitchen,3,10371.0,10.0,28001.7,6720.41,669.48,112.51,Yes,Delivered,3.9,Credit Card
+ORD10231,2025-05-08,North,1014,21.0,Consumer,Marketplace,Beauty,2,2028.0,10.0,3650.4,1642.68,2159.79,85.29,Yes,Delivered,3.0,UPI
+ORD10332,2025-04-09,South,1117,37.0,SMB,Marketplace,Electronics,1,26462.0,15.0,22492.7,3148.98,2475.13,226.07,No,Delivered,3.9,Net Banking
+ORD10303,2025-02-20,East,1122,30.0,Consumer,Marketplace,Beauty,1,1615.0,20.0,1292.0,581.4,2257.8,462.48,No,Delivered,4.6,Credit Card
+ORD10594,2025-05-21,South,1118,51.0,SMB,Website,Electronics,2,34857.0,0.0,69714.0,9759.96,509.2,346.67,No,Delivered,4.1,COD
+ORD10041,2025-01-21,North,1065,28.0,Consumer,Website,Home & Kitchen,1,10428.0,0.0,10428.0,2502.72,2628.74,424.63,No,Delivered,5.0,UPI
+ORD10587,2025-05-26,West,1072,32.0,Consumer,Mobile App,Electronics,2,28638.0,20.0,45820.8,6414.91,2875.65,231.54,No,Delivered,4.2,Debit Card
+ORD10163,2025-05-09,South,1053,53.0,SMB,Mobile App,Home & Kitchen,2,6935.0,5.0,13176.5,3162.36,1180.96,132.26,No,Delivered,4.0,Debit Card
+ORD10541,2025-01-13,West,1130,30.0,SMB,Retail Store,Fashion,3,2549.0,15.0,6499.95,2469.98,1388.18,457.22,No,Delivered,4.5,Credit Card
+ORD10260,2025-06-01,South,1033,18.0,Consumer,Marketplace,Sports,2,3237.0,20.0,5179.2,1657.34,1768.73,153.15,No,Delivered,4.2,COD
+ORD10595,2025-06-17,South,1094,43.0,Consumer,Retail Store,Sports,2,3213.0,5.0,6104.7,1953.5,1062.25,440.75,No,Delivered,4.4,Credit Card
+ORD10184,2025-02-21,South,1072,56.0,Enterprise,Website,Home & Kitchen,1,7449.0,5.0,7076.55,1698.37,2671.72,400.82,No,Delivered,3.6,Net Banking
+ORD10345,2025-01-24,East,1070,41.0,SMB,Retail Store,Sports,4,3324.0,,11966.4,3829.25,1346.78,106.98,No,Delivered,4.2,UPI
+ORD10349,2025-03-27,North,1112,18.0,Consumer,Retail Store,Fashion,2,2521.0,0.0,5042.0,1915.96,,274.72,No,Delivered,4.3,UPI
+ORD10473,2025-05-18,North,1076,18.0,Consumer,Mobile App,Beauty,1,1853.0,10.0,1667.7,750.46,1824.53,173.7,No,Delivered,4.4,Credit Card
+ORD10200,2025-05-06,North,1028,47.0,SMB,Website,Beauty,1,2200.0,20.0,1760.0,792.0,802.1,368.62,No,Delivered,3.9,UPI
+ORD10325,2025-05-04,East,1074,46.0,SMB,Marketplace,Electronics,2,22637.0,5.0,43010.3,6021.44,1608.66,411.42,No,Delivered,3.5,Credit Card
+ORD10398,2025-02-23,North,1104,53.0,Enterprise,Website,Electronics,1,23859.0,15.0,20280.15,2839.22,2221.8,478.07,No,Delivered,4.1,Debit Card
+ORD10313,2025-02-17,South,1130,41.0,SMB,Website,Fashion,3,3612.0,10.0,9752.4,3705.91,1504.08,136.08,No,Delivered,4.4,UPI
+ORD10135,2025-04-06,North,1039,60.0,Enterprise,Website,Sports,1,4331.0,10.0,3897.9,1247.33,629.07,180.65,Yes,Delivered,3.7,UPI
+ORD10168,2025-01-03,South,1105,46.0,SMB,Retail Store,Fashion,5,3050.0,5.0,14487.5,5505.25,620.38,431.73,No,Delivered,4.4,COD
+ORD10513,2025-01-08,East,1014,39.0,Enterprise,Mobile App,Electronics,3,32622.0,5.0,92972.7,13016.18,2581.42,452.56,No,Delivered,4.3,Credit Card
+ORD10581,2025-06-16,South,1099,49.0,Consumer,Mobile App,Beauty,1,1460.0,20.0,1168.0,525.6,2795.64,182.36,No,Delivered,4.2,Debit Card
+ORD10472,2025-06-29,South,1030,29.0,SMB,Mobile App,Home & Kitchen,1,10134.0,5.0,9627.3,2310.55,2645.1,337.75,No,Delivered,4.0,Net Banking
+ORD10527,2025-01-21,South,1083,52.0,Consumer,Marketplace,Home & Kitchen,2,9697.0,0.0,19394.0,4654.56,1495.64,180.52,No,Delivered,4.8,UPI
+ORD10357,2025-05-17,East,1075,45.0,Consumer,Retail Store,Sports,1,4446.0,10.0,4001.4,1280.45,1642.59,492.04,No,Delivered,4.1,UPI
+ORD10205,2025-06-09,North,1042,48.0,SMB,Mobile App,Electronics,5,21090.0,15.0,89632.5,12548.55,,364.4,No,Delivered,4.0,COD
+ORD10320,2025-06-07,East,1050,59.0,Consumer,Mobile App,Fashion,1,3366.0,10.0,3029.4,1151.17,1596.79,471.59,Yes,Returned,2.9,Debit Card
+ORD10139,2025-05-31,South,1138,54.0,Enterprise,Marketplace,Sports,1,4248.0,10.0,3823.2,1223.42,2978.1,414.59,No,Delivered,3.9,UPI
+ORD10361,2025-06-19,West,1089,39.0,Consumer,Website,Sports,4,4808.0,25.0,14424.0,4615.68,1958.16,373.8,Yes,Delivered,3.6,Net Banking
+ORD10101,2025-06-12,North,1065,56.0,SMB,Mobile App,Fashion,2,2884.0,20.0,4614.4,1753.47,2308.88,413.56,No,Cancelled,4.2,Net Banking
+ORD10167,2025-04-26,South,1137,21.0,Consumer,Retail Store,Beauty,3,1792.0,5.0,5107.2,2298.24,2634.56,369.85,No,Delivered,4.3,Credit Card
+ORD10372,2025-06-22,North,1085,27.0,Consumer,Retail Store,Fashion,1,2444.0,5.0,2321.8,882.28,2534.72,287.47,No,Delivered,4.2,Debit Card
+ORD10490,2025-05-04,East,1150,,Consumer,Retail Store,Sports,2,4115.0,5.0,7818.5,2501.92,1156.95,308.89,No,Cancelled,3.7,COD
+ORD10503,2025-02-13,North,1089,46.0,SMB,Retail Store,Electronics,3,32161.0,15.0,82010.55,11481.48,1233.82,294.42,Yes,Returned,4.4,UPI
+ORD10549,2025-03-25,East,1052,22.0,Consumer,Website,Electronics,3,23705.0,0.0,71115.0,9956.1,2495.27,154.49,Yes,Delivered,2.7,Debit Card
+ORD10211,2025-03-10,East,1105,23.0,Consumer,Website,Fashion,1,3527.0,10.0,3174.3,1206.23,2538.71,448.63,No,Delivered,3.8,UPI
+ORD10596,2025-06-19,South,1144,18.0,SMB,Retail Store,Electronics,2,27223.0,0.0,54446.0,7622.44,1880.3,224.8,No,Delivered,4.7,Credit Card
+ORD10106,2025-01-28,East,1148,60.0,Consumer,Website,Beauty,1,1419.0,10.0,1277.1,574.69,591.68,336.28,No,Delivered,4.1,UPI
+ORD10593,2025-06-23,East,1009,55.0,Enterprise,Mobile App,Sports,1,3223.0,5.0,3061.85,979.79,2448.28,94.45,No,Delivered,4.5,Debit Card
+ORD10330,2025-06-30,East,1123,34.0,Consumer,Retail Store,Home & Kitchen,1,9062.0,0.0,9062.0,2174.88,1368.6,173.66,No,Delivered,3.9,COD
+ORD10264,2025-06-01,South,1084,60.0,Consumer,Marketplace,Fashion,1,2708.0,5.0,2572.6,977.59,962.99,91.37,No,Delivered,3.6,COD
+ORD10460,2025-05-24,North,1008,29.0,SMB,Website,Home & Kitchen,1,6409.0,5.0,6088.55,1461.25,571.52,149.48,No,Delivered,4.9,Net Banking
+ORD10267,2025-04-23,South,1001,27.0,Consumer,Website,Sports,3,4409.0,5.0,12565.65,4021.01,601.02,470.45,No,Cancelled,4.1,Debit Card
+ORD10181,2025-06-29,North,1125,42.0,Enterprise,Retail Store,Sports,1,3859.0,10.0,3473.1,1111.39,2948.14,478.38,No,Delivered,4.4,Credit Card
+ORD10079,2025-03-23,East,1116,29.0,SMB,Mobile App,Electronics,1,28726.0,20.0,22980.8,3217.31,1141.24,453.99,No,Delivered,3.7,UPI
+ORD10104,2025-01-05,North,1001,39.0,Consumer,Mobile App,Home & Kitchen,4,10193.0,15.0,34656.2,8317.49,2323.32,365.48,Yes,Delivered,2.5,UPI
+ORD10215,2025-05-24,South,1071,44.0,Consumer,Retail Store,Fashion,2,3161.0,0.0,6322.0,2402.36,1591.03,399.34,No,Delivered,3.3,Debit Card
+ORD10054,2025-04-02,South,1036,46.0,SMB,Retail Store,Fashion,3,3386.0,,9650.1,3667.04,1724.42,401.66,No,Delivered,3.9,Net Banking
+ORD10563,2025-03-24,North,1100,20.0,SMB,Marketplace,Beauty,4,1538.0,20.0,4921.6,2214.72,2877.3,299.13,No,Delivered,3.8,Debit Card
+ORD10397,2025-01-15,North,1058,43.0,Enterprise,Retail Store,Sports,1,3729.0,10.0,3356.1,1073.95,2210.05,248.48,Yes,Delivered,3.6,Net Banking
+ORD10138,2025-05-12,West,1131,26.0,Consumer,Retail Store,Fashion,3,2425.0,20.0,5820.0,2211.6,485.35,295.82,No,Delivered,4.4,UPI
+ORD10307,2025-01-21,South,1034,58.0,Consumer,Marketplace,Home & Kitchen,3,8340.0,5.0,23769.0,5704.56,2436.47,350.1,No,Delivered,4.9,COD
+ORD10173,2025-06-14,North,1134,20.0,Enterprise,Marketplace,Electronics,1,26196.0,25.0,19647.0,2750.58,1488.19,192.04,No,Delivered,4.8,Credit Card
+ORD10318,2025-01-17,West,1001,,Consumer,Website,Electronics,1,31216.0,10.0,28094.4,3933.22,1553.35,292.94,No,Delivered,4.8,UPI
+ORD10038,2025-05-11,West,1023,36.0,Enterprise,Marketplace,Fashion,3,3497.0,0.0,10491.0,3986.58,1180.49,84.01,No,Delivered,4.1,Credit Card
+ORD10195,2025-05-10,East,1089,27.0,SMB,Retail Store,Electronics,2,28761.0,20.0,46017.6,6442.46,2091.08,83.26,Yes,Returned,3.9,Net Banking
+ORD10114,2025-03-03,West,1148,50.0,SMB,Website,Electronics,1,27699.0,0.0,27699.0,3877.86,2153.59,444.21,No,Delivered,4.6,COD
+ORD10223,2025-05-27,South,1125,28.0,Consumer,Website,Beauty,1,2046.0,10.0,1841.4,828.63,2180.72,266.65,No,Delivered,4.7,Net Banking
+ORD10404,2025-01-05,South,1086,18.0,Consumer,Mobile App,Fashion,3,3899.0,15.0,9942.45,3778.13,796.22,499.29,No,Delivered,4.5,Debit Card
+ORD10566,2025-04-27,East,1108,36.0,Consumer,Mobile App,Home & Kitchen,4,8702.0,15.0,29586.8,7100.83,1214.8,165.58,Yes,Delivered,3.2,COD
+ORD10570,2025-01-25,West,1063,50.0,Enterprise,Marketplace,Sports,1,3414.0,15.0,2901.9,928.61,2029.03,255.95,No,Cancelled,4.5,Credit Card
+ORD10072,2025-02-13,East,1003,47.0,Consumer,Website,Sports,1,3419.0,5.0,3248.05,1039.38,2118.58,409.78,No,Delivered,4.5,UPI
+ORD10370,2025-02-26,West,1077,52.0,SMB,Website,Fashion,1,2631.0,20.0,2104.8,799.82,2137.04,488.57,No,Cancelled,4.0,Credit Card
+ORD10578,2025-04-19,West,1126,40.0,Enterprise,Mobile App,Sports,1,3874.0,10.0,3486.6,1115.71,660.03,356.34,No,Delivered,4.7,Credit Card
+ORD10538,2025-02-06,North,1073,31.0,Enterprise,Website,Home & Kitchen,1,6936.0,15.0,5895.6,1414.94,1114.89,205.81,No,Cancelled,4.3,UPI
+ORD10341,2025-02-27,North,1110,33.0,Consumer,Website,Home & Kitchen,3,9349.0,10.0,25242.3,6058.15,445.21,395.75,No,Delivered,4.0,Credit Card
+ORD10003,2025-04-03,North,1066,33.0,SMB,Website,Home & Kitchen,1,9004.0,15.0,7653.4,1836.82,1081.49,210.5,No,Delivered,4.0,Net Banking
+ORD10367,2025-01-13,North,1066,49.0,SMB,Website,Electronics,3,21445.0,15.0,54684.75,7655.87,2598.8,85.01,No,Delivered,4.0,Net Banking
+ORD10005,2025-04-17,West,1086,43.0,Consumer,Website,Home & Kitchen,1,8369.0,15.0,7113.65,1707.28,2468.76,439.87,No,Delivered,4.5,Credit Card
+ORD10322,2025-04-27,West,1015,20.0,SMB,Website,Beauty,3,2090.0,15.0,5329.5,2398.28,891.64,151.65,No,Delivered,3.9,Net Banking
+ORD10179,2025-06-09,North,1115,52.0,Consumer,Marketplace,Electronics,3,31212.0,10.0,84272.4,11798.14,338.83,393.86,Yes,Returned,,UPI
+ORD10026,2025-02-27,North,1040,18.0,SMB,Mobile App,Electronics,2,26794.0,,45549.8,6376.97,2949.35,425.54,No,Delivered,3.6,UPI
+ORD10585,2025-06-12,North,1001,45.0,Enterprise,Website,Electronics,1,32067.0,20.0,25653.6,3591.5,2092.11,336.68,No,Delivered,4.5,Net Banking
+ORD10047,2025-03-01,South,1079,26.0,Consumer,Mobile App,Electronics,1,31368.0,5.0,29799.6,4171.94,2939.49,186.99,No,Delivered,4.3,Debit Card
+ORD10250,2025-02-17,West,1015,,Enterprise,Marketplace,Fashion,1,2985.0,0.0,2985.0,1134.3,1413.39,318.97,No,Cancelled,4.8,COD
+ORD10153,2025-05-14,East,1052,60.0,Consumer,Website,Fashion,4,3709.0,15.0,12610.6,4792.03,2567.99,446.46,Yes,Delivered,3.4,Credit Card
+ORD10455,2025-03-27,West,1141,23.0,Enterprise,Website,Beauty,1,2053.0,10.0,1847.7,831.46,1333.78,227.33,No,Delivered,4.9,Credit Card
+ORD10116,2025-04-09,North,1129,48.0,Enterprise,Mobile App,Electronics,3,25251.0,10.0,68177.7,9544.88,2669.12,179.42,No,Delivered,4.6,UPI
+ORD10407,2025-04-19,South,1009,54.0,Consumer,Mobile App,Electronics,2,30158.0,15.0,51268.6,7177.6,366.87,497.81,No,Delivered,4.1,Credit Card
+ORD10483,2025-05-08,South,1064,32.0,Enterprise,Marketplace,Beauty,1,1469.0,5.0,1395.55,628.0,558.23,296.21,No,Delivered,4.6,COD
+ORD10290,2025-05-08,East,1008,24.0,SMB,Mobile App,Beauty,1,1566.0,20.0,1252.8,563.76,2656.09,443.8,No,Delivered,3.2,Credit Card
+ORD10018,2025-02-22,North,1067,40.0,Enterprise,Website,Electronics,3,29843.0,10.0,80576.1,11280.65,2515.49,259.28,No,Delivered,4.2,Net Banking
+ORD10133,2025-06-28,South,1081,31.0,SMB,Mobile App,Electronics,2,21629.0,20.0,34606.4,4844.9,1179.88,456.21,No,Delivered,4.8,COD
+ORD10555,2025-04-10,North,1141,50.0,Consumer,Website,Electronics,2,30279.0,10.0,54502.2,7630.31,2793.9,179.45,No,Delivered,4.9,Credit Card
+ORD10507,2025-04-05,North,1061,46.0,SMB,Retail Store,Beauty,1,2074.0,10.0,1866.6,839.97,733.6,157.04,No,Delivered,4.6,Debit Card
+ORD10373,2025-01-20,North,1059,33.0,SMB,Website,Home & Kitchen,1,8600.0,15.0,7310.0,1754.4,2297.64,445.13,No,Delivered,4.3,UPI
+ORD10103,2025-05-03,North,1120,49.0,Consumer,Website,Sports,1,3507.0,5.0,3331.65,1066.13,933.15,473.81,No,Delivered,4.0,COD
+ORD10293,2025-05-25,North,1030,34.0,Enterprise,Website,Sports,1,3867.0,10.0,3480.3,1113.7,2166.82,191.35,No,Cancelled,3.7,Debit Card
+ORD10540,2025-04-23,West,1041,50.0,SMB,Website,Sports,3,3558.0,15.0,9072.9,2903.33,1664.49,120.13,Yes,Delivered,2.8,Debit Card
+ORD10434,2025-05-20,West,1077,57.0,Enterprise,Website,Fashion,2,3290.0,10.0,5922.0,2250.36,470.39,205.97,Yes,Delivered,2.7,Net Banking
+ORD10246,2025-03-01,West,1001,19.0,Consumer,Mobile App,Sports,2,4319.0,5.0,8206.1,2625.95,1321.21,462.09,No,Delivered,4.1,UPI
+ORD10142,2025-01-29,North,1094,55.0,SMB,Retail Store,Home & Kitchen,3,8753.0,5.0,24946.05,5987.05,1751.48,158.75,No,Delivered,4.6,Debit Card
+ORD10495,2025-04-11,North,1046,18.0,SMB,Website,Fashion,2,3819.0,10.0,6874.2,2612.2,2746.83,233.68,Yes,Delivered,3.1,Credit Card
+ORD10562,2025-02-21,South,1010,30.0,Consumer,Mobile App,Beauty,2,1545.0,10.0,2781.0,1251.45,849.42,388.43,No,Delivered,3.9,Credit Card
+ORD10045,2025-05-12,West,1088,58.0,Consumer,Retail Store,Fashion,2,3428.0,15.0,5827.6,2214.49,2631.41,102.04,No,Delivered,4.0,Net Banking
+ORD10466,2025-04-11,East,1078,20.0,Enterprise,Mobile App,Electronics,1,27073.0,10.0,24365.7,3411.2,1245.54,272.28,No,Delivered,4.4,UPI
+ORD10137,2025-04-06,East,1029,23.0,Enterprise,Marketplace,Electronics,1,34166.0,0.0,34166.0,4783.24,2741.17,221.05,Yes,Delivered,4.0,Debit Card
+ORD10262,2025-04-30,South,1061,46.0,Consumer,Mobile App,Home & Kitchen,1,8913.0,15.0,7576.05,1818.25,2592.09,380.07,No,Delivered,4.5,COD
+ORD10426,2025-04-02,South,1073,41.0,Enterprise,Retail Store,Beauty,2,2216.0,15.0,3767.2,1695.24,2256.68,215.38,No,Delivered,3.6,Credit Card
+ORD10474,2025-05-27,West,1015,38.0,Consumer,Website,Electronics,1,32599.0,0.0,32599.0,4563.86,1694.89,309.18,No,Cancelled,4.3,Net Banking
+ORD10550,2025-04-22,South,1038,23.0,SMB,Marketplace,Fashion,2,2481.0,5.0,4713.9,1791.28,567.92,82.96,No,Cancelled,4.3,Credit Card
+ORD10317,2025-02-18,North,1144,42.0,Consumer,Marketplace,Electronics,2,27161.0,5.0,51605.9,7224.83,1875.24,270.65,No,Delivered,4.5,Credit Card
+ORD10598,2025-06-27,South,1130,56.0,Enterprise,Website,Sports,2,3396.0,0.0,6792.0,2173.44,2821.74,454.23,No,Delivered,4.3,COD
+ORD10027,2025-01-22,South,1085,21.0,SMB,Mobile App,Sports,2,3579.0,10.0,6442.2,2061.5,2817.72,210.78,No,Cancelled,,UPI
+ORD10143,2025-02-05,North,1032,43.0,Consumer,Website,Home & Kitchen,1,9295.0,10.0,8365.5,2007.72,799.28,395.25,No,Delivered,3.9,UPI
+ORD10375,2025-01-08,West,1112,21.0,Consumer,Mobile App,Sports,2,5228.0,0.0,10456.0,3345.92,621.59,290.44,No,Delivered,4.1,Credit Card
+ORD10440,2025-04-06,South,1077,48.0,Consumer,Mobile App,Beauty,1,1989.0,20.0,1591.2,716.04,1535.45,411.35,No,Delivered,4.1,Debit Card
+ORD10443,2025-02-17,North,1066,,SMB,Mobile App,Electronics,2,34561.0,15.0,58753.7,8225.52,2325.41,340.92,No,Delivered,4.4,Net Banking
+ORD10209,2025-02-07,South,1015,40.0,SMB,Marketplace,Beauty,1,2034.0,15.0,1728.9,778.01,2206.08,172.44,No,Delivered,3.9,Net Banking
+ORD10044,2025-01-18,North,1105,27.0,Consumer,Mobile App,Electronics,1,32673.0,10.0,29405.7,4116.8,2000.0,218.28,Yes,Returned,3.4,Net Banking
+ORD10548,2025-03-03,East,1064,46.0,Consumer,Retail Store,Fashion,3,2544.0,10.0,6868.8,2610.14,1617.92,463.29,No,Delivered,3.9,Debit Card
+ORD10217,2025-05-04,South,1025,22.0,SMB,Mobile App,Fashion,2,3621.0,0.0,7242.0,2751.96,1997.13,83.1,No,Cancelled,3.6,Credit Card
+ORD10196,2025-02-23,North,1146,55.0,Consumer,Mobile App,Fashion,5,2719.0,10.0,12235.5,4649.49,619.2,286.68,Yes,Returned,4.6,Credit Card
+ORD10125,2025-05-22,East,1055,49.0,SMB,Website,Home & Kitchen,2,7573.0,10.0,13631.4,3271.54,1054.5,123.58,No,Delivered,4.6,UPI
+ORD10552,2025-05-21,North,1146,33.0,Consumer,Retail Store,Home & Kitchen,3,7596.0,10.0,20509.2,4922.21,1996.96,112.25,No,Delivered,4.2,Credit Card
+ORD10581,2025-06-16,South,1099,49.0,Consumer,Mobile App,Beauty,1,1460.0,20.0,1168.0,525.6,2795.64,182.36,No,Delivered,4.2,Debit Card
+ORD10470,2025-04-10,South,1051,43.0,SMB,Retail Store,Home & Kitchen,2,10207.0,5.0,19393.3,4654.39,1391.45,477.87,No,Delivered,4.6,COD
+ORD10191,2025-04-23,North,1132,55.0,SMB,Website,Fashion,2,2486.0,25.0,3729.0,1417.02,1507.44,81.14,No,Delivered,3.9,COD
+ORD10589,2025-01-09,North,1133,51.0,Enterprise,Marketplace,Beauty,4,1391.0,0.0,5564.0,2503.8,1858.48,290.01,No,Delivered,4.5,UPI
+ORD10352,2025-06-04,East,1019,26.0,SMB,Website,Electronics,3,29191.0,20.0,70058.4,9808.18,,195.57,No,Delivered,4.5,Debit Card
+ORD10586,2025-03-16,South,1025,25.0,Consumer,Website,Beauty,1,1477.0,0.0,1477.0,664.65,619.24,493.17,No,Delivered,3.7,UPI
+ORD10453,2025-05-24,East,1033,34.0,SMB,Mobile App,Sports,1,3811.0,10.0,3429.9,1097.57,1386.23,455.93,No,Delivered,3.8,Credit Card
+ORD10270,2025-04-14,North,1015,43.0,Consumer,Marketplace,Fashion,5,3861.0,20.0,15444.0,5868.72,2229.68,102.14,Yes,Delivered,3.5,UPI
+ORD10126,2025-04-13,West,1024,36.0,Consumer,Website,Electronics,1,26093.0,15.0,22179.05,3105.07,2412.75,204.08,No,Delivered,,Credit Card
+ORD10546,2025-01-17,South,1013,50.0,Enterprise,Mobile App,Fashion,1,2815.0,5.0,2674.25,1016.22,804.71,99.4,No,Cancelled,4.5,UPI
+ORD10496,2025-01-12,West,1073,52.0,Consumer,Website,Sports,1,4032.0,10.0,3628.8,1161.22,2307.27,176.35,No,Delivered,3.9,Net Banking
+ORD10366,2025-06-01,North,1013,48.0,SMB,Retail Store,Electronics,3,32110.0,,96330.0,13486.2,858.88,123.06,No,Delivered,4.0,Net Banking
+ORD10514,2025-04-03,South,1036,20.0,Consumer,Website,Fashion,3,3917.0,10.0,10575.9,4018.84,1586.07,195.51,No,Delivered,4.5,Debit Card
+ORD10076,2025-02-17,South,1063,32.0,Enterprise,Website,Electronics,1,30370.0,20.0,24296.0,3401.44,2813.23,471.02,No,Delivered,4.6,COD
+ORD10174,2025-02-20,South,1048,19.0,Consumer,Website,Sports,1,4800.0,10.0,4320.0,1382.4,1603.7,130.2,No,Delivered,5.0,UPI
+ORD10499,2025-06-10,West,1087,20.0,Enterprise,Website,Fashion,1,3642.0,0.0,3642.0,1383.96,2176.28,87.42,No,Delivered,4.1,Net Banking
+ORD10052,2025-05-10,South,1060,27.0,SMB,Marketplace,Home & Kitchen,1,7356.0,0.0,7356.0,1765.44,451.64,483.79,No,Delivered,4.3,Net Banking
+ORD10301,2025-02-07,East,1100,42.0,SMB,Mobile App,Sports,1,3723.0,15.0,3164.55,1012.66,1463.32,360.11,No,Delivered,4.6,Net Banking
+ORD10494,2025-06-20,South,1025,35.0,Consumer,Marketplace,Fashion,1,2505.0,15.0,2129.25,809.12,2329.78,132.34,No,Delivered,3.7,Credit Card
+ORD10591,2025-05-25,South,1147,50.0,SMB,Website,Electronics,1,28492.0,5.0,27067.4,3789.44,344.98,324.54,No,Delivered,4.1,Credit Card
+ORD10259,2025-05-28,North,1110,43.0,Consumer,Mobile App,Beauty,2,1614.0,10.0,2905.2,1307.34,859.05,383.33,No,Delivered,3.9,Credit Card
+ORD10058,2025-06-24,North,1139,23.0,SMB,Mobile App,Electronics,1,28022.0,0.0,28022.0,3923.08,389.82,159.29,No,Delivered,4.7,COD
+ORD10164,2025-05-01,South,1100,59.0,Enterprise,Mobile App,Beauty,1,2119.0,5.0,2013.05,905.87,356.05,331.83,Yes,Returned,4.2,UPI
+ORD10439,2025-02-03,West,1113,28.0,Consumer,Retail Store,Fashion,1,3229.0,10.0,2906.1,1104.32,1059.65,168.17,No,Delivered,4.1,Net Banking
+ORD10234,2025-04-14,West,1036,33.0,Consumer,Mobile App,Fashion,2,3145.0,5.0,5975.5,2270.69,1450.19,177.61,Yes,Delivered,3.0,UPI
+ORD10510,2025-02-04,North,1131,31.0,SMB,Website,Sports,2,3855.0,20.0,6168.0,1973.76,2241.93,367.97,No,Delivered,3.9,COD
+ORD10248,2025-01-02,South,1021,31.0,SMB,Mobile App,Electronics,1,32691.0,10.0,29421.9,4119.07,1415.39,102.08,No,Delivered,3.9,Net Banking
+ORD10477,2025-03-10,South,1023,35.0,SMB,Marketplace,Fashion,3,2919.0,10.0,7881.3,2994.89,2590.09,298.77,No,Delivered,4.2,COD
+ORD10502,2025-02-12,South,1061,36.0,Enterprise,Website,Beauty,3,1748.0,15.0,4457.4,2005.83,2597.57,261.01,No,Delivered,4.9,UPI
+ORD10094,2025-05-09,East,1084,60.0,SMB,Marketplace,Electronics,1,23902.0,20.0,19121.6,2677.02,2665.72,128.45,No,Delivered,4.8,UPI
+ORD10100,2025-06-12,North,1139,47.0,Consumer,Website,Electronics,1,25952.0,20.0,20761.6,2906.62,497.11,225.82,No,Delivered,4.3,Debit Card
+ORD10488,2025-06-27,South,1083,32.0,SMB,Marketplace,Sports,1,5245.0,15.0,4458.25,1426.64,744.42,388.13,No,Delivered,4.4,Net Banking
+ORD10229,2025-06-10,South,1062,26.0,SMB,Marketplace,Electronics,2,34950.0,10.0,62910.0,8807.4,1971.75,118.42,No,Delivered,4.4,Credit Card
+ORD10130,2025-03-31,North,1075,38.0,SMB,Marketplace,Electronics,1,34885.0,10.0,31396.5,4395.51,1021.1,437.78,No,Delivered,4.0,Net Banking
+ORD10463,2025-02-08,West,1012,60.0,Consumer,Retail Store,Electronics,1,22507.0,15.0,19130.95,2678.33,2624.16,460.58,No,Cancelled,4.0,COD
+ORD10149,2025-03-07,South,1106,31.0,Consumer,Website,Home & Kitchen,1,8144.0,15.0,6922.4,1661.38,2939.24,434.81,No,Delivered,3.9,Net Banking
+ORD10406,2025-01-06,South,1142,60.0,SMB,Website,Sports,1,3675.0,15.0,3123.75,999.6,1615.47,199.3,No,Delivered,4.2,UPI
+ORD10085,2025-02-10,West,1071,40.0,Enterprise,Website,Fashion,1,3908.0,25.0,2931.0,1113.78,1592.5,377.78,Yes,Delivered,2.7,UPI
+ORD10310,2025-01-28,North,1094,18.0,Consumer,Website,Fashion,1,3547.0,5.0,3369.65,1280.47,1770.41,172.34,No,Delivered,4.5,COD
+ORD10456,2025-01-29,West,1047,60.0,Consumer,Website,Sports,2,3986.0,5.0,7573.4,2423.49,2241.5,429.73,Yes,Delivered,3.2,COD
+ORD10281,2025-06-12,West,1028,48.0,Consumer,Marketplace,Electronics,1,32893.0,10.0,29603.7,4144.52,610.25,264.23,No,Delivered,4.1,Credit Card
+ORD10433,2025-05-17,North,1106,36.0,SMB,Marketplace,Electronics,3,25032.0,5.0,71341.2,9987.77,1983.5,479.13,No,Delivered,4.5,Net Banking
+ORD10092,2025-01-09,East,1002,33.0,Consumer,Website,Beauty,2,1358.0,15.0,2308.6,1038.87,2332.69,106.84,Yes,Returned,4.2,COD
+ORD10221,2025-05-28,East,1009,32.0,Consumer,Marketplace,Electronics,4,30380.0,20.0,97216.0,13610.24,2313.44,446.07,No,Delivered,4.1,COD
+ORD10029,2025-02-18,North,1087,50.0,Enterprise,Mobile App,Beauty,1,1872.0,5.0,1778.4,800.28,1386.0,291.16,No,Delivered,4.3,UPI
+ORD10441,2025-05-06,South,1077,50.0,SMB,Marketplace,Beauty,1,1436.0,10.0,1292.4,581.58,1583.54,405.32,No,Delivered,4.4,Debit Card
+ORD10073,2025-06-11,West,1043,54.0,SMB,Mobile App,Fashion,3,2956.0,0.0,8868.0,3369.84,670.88,284.71,No,Delivered,3.9,UPI
+ORD10564,2025-04-21,West,1148,51.0,SMB,Mobile App,Home & Kitchen,3,7635.0,15.0,19469.25,4672.62,,169.55,No,Delivered,4.5,Debit Card
+ORD10323,2025-01-06,East,1053,36.0,SMB,Marketplace,Electronics,2,23427.0,20.0,37483.2,5247.65,604.68,263.44,Yes,Delivered,2.5,Debit Card
+ORD10385,2025-02-20,North,1014,52.0,Consumer,Mobile App,Home & Kitchen,1,6595.0,10.0,5935.5,1424.52,1015.72,90.49,No,Delivered,4.5,Debit Card
+ORD10319,2025-06-21,South,1072,49.0,Consumer,Website,Sports,3,5124.0,0.0,15372.0,4919.04,1971.85,320.31,No,Delivered,3.9,Credit Card
+ORD10459,2025-04-04,South,1043,48.0,Consumer,Website,Beauty,5,1942.0,10.0,8739.0,3932.55,977.4,469.77,No,Delivered,3.9,Net Banking
+ORD10155,2025-01-28,East,1137,36.0,Enterprise,Mobile App,Fashion,4,3578.0,25.0,10734.0,4078.92,2214.03,269.05,No,Delivered,4.0,UPI
+ORD10262,2025-04-30,South,1061,46.0,Consumer,Mobile App,Home & Kitchen,1,8913.0,15.0,7576.05,1818.25,2592.09,380.07,No,Delivered,4.5,COD
+ORD10381,2025-04-08,East,1099,53.0,Enterprise,Marketplace,Sports,2,3311.0,0.0,6622.0,2119.04,2201.71,362.1,No,Delivered,4.6,Credit Card
+ORD10201,2025-05-10,East,1035,22.0,Enterprise,Mobile App,Sports,1,4431.0,5.0,4209.45,1347.02,2867.21,422.21,No,Delivered,4.6,Credit Card
+ORD10358,2025-02-12,East,1128,32.0,Enterprise,Mobile App,Beauty,1,2127.0,10.0,1914.3,861.44,781.72,357.96,No,Delivered,3.8,UPI
+ORD10577,2025-02-08,East,1064,39.0,Enterprise,Mobile App,Beauty,1,2228.0,0.0,2228.0,1002.6,1620.91,140.32,No,Delivered,3.9,Net Banking
+ORD10183,2025-03-03,West,1062,18.0,Consumer,Website,Home & Kitchen,1,6482.0,15.0,5509.7,1322.33,1660.01,82.85,No,Cancelled,4.1,Net Banking
+ORD10394,2025-06-29,West,1014,33.0,SMB,Website,Fashion,1,3322.0,0.0,3322.0,1262.36,1602.14,385.53,No,Delivered,4.5,Net Banking
+ORD10176,2025-06-01,South,1007,23.0,Consumer,Website,Sports,1,5122.0,0.0,5122.0,1639.04,612.01,124.69,No,Delivered,4.4,Credit Card
+ORD10296,2025-06-25,West,1048,30.0,SMB,Mobile App,Electronics,3,23652.0,0.0,70956.0,9933.84,2539.34,172.54,No,Delivered,4.6,COD
+ORD10317,2025-02-18,North,1144,42.0,Consumer,Marketplace,Electronics,2,27161.0,5.0,51605.9,7224.83,1875.24,270.65,No,Delivered,4.5,Credit Card
+ORD10294,2025-05-08,North,1145,47.0,Consumer,Marketplace,Electronics,2,27283.0,10.0,49109.4,6875.32,1006.73,261.44,No,Delivered,4.2,UPI
+ORD10236,2025-01-11,North,1085,46.0,Consumer,Website,Home & Kitchen,1,10264.0,5.0,9750.8,2340.19,2075.97,497.04,No,Delivered,4.3,Net Banking
+ORD10388,2025-05-05,West,1045,39.0,Consumer,Mobile App,Fashion,3,3735.0,10.0,10084.5,3832.11,550.33,334.42,No,Delivered,4.8,Debit Card
+ORD10533,2025-04-09,West,1101,20.0,Enterprise,Website,Fashion,2,2410.0,10.0,4338.0,1648.44,2564.24,148.28,No,Delivered,4.1,Credit Card
+ORD10551,2025-03-27,North,1100,48.0,SMB,Website,Fashion,3,3402.0,25.0,7654.5,2908.71,1457.34,418.31,No,Delivered,4.7,UPI
+ORD10525,2025-04-30,North,1133,43.0,SMB,Marketplace,Electronics,2,31236.0,15.0,53101.2,7434.17,1515.75,475.01,No,Delivered,4.5,Debit Card
+ORD10431,2025-01-23,North,1048,24.0,Consumer,Mobile App,Beauty,1,1600.0,10.0,1440.0,648.0,410.52,362.59,No,Delivered,4.6,UPI
+ORD10400,2025-01-08,West,1025,34.0,Consumer,Marketplace,Electronics,2,30509.0,20.0,48814.4,6834.02,1873.25,132.45,No,Cancelled,3.7,Debit Card
+ORD10402,2025-03-01,North,1136,39.0,Enterprise,Website,Sports,1,4034.0,15.0,3428.9,1097.25,627.82,125.99,No,Delivered,4.6,Debit Card
+ORD10391,2025-02-27,West,1029,54.0,Consumer,Website,Fashion,2,3305.0,15.0,5618.5,2135.03,573.73,324.66,Yes,Delivered,3.1,Net Banking
+ORD10302,2025-04-19,West,1054,43.0,SMB,Website,Beauty,3,1509.0,20.0,3621.6,1629.72,1142.92,192.2,No,Delivered,4.2,Credit Card
+ORD10081,2025-02-22,West,1138,26.0,SMB,Mobile App,Beauty,2,1725.0,20.0,2760.0,1242.0,1000.93,278.34,No,Delivered,3.6,COD
+ORD10363,2025-04-09,East,1026,48.0,SMB,Website,Beauty,3,1855.0,15.0,4730.25,2128.61,817.69,103.98,No,Delivered,4.4,Net Banking
+ORD10308,2025-01-30,South,1043,47.0,Consumer,Mobile App,Beauty,4,2128.0,10.0,7660.8,3447.36,1923.74,212.61,No,Delivered,3.9,Net Banking
+ORD10064,2025-05-12,North,1146,32.0,SMB,Mobile App,Electronics,2,22753.0,15.0,38680.1,5415.21,1518.42,127.01,No,Delivered,4.9,Credit Card
+ORD10062,2025-02-19,South,1033,27.0,Consumer,Marketplace,Home & Kitchen,1,9775.0,10.0,8797.5,2111.4,1371.24,201.91,Yes,Delivered,3.8,Credit Card
+ORD10486,2025-06-01,North,1088,45.0,Enterprise,Mobile App,Electronics,2,27362.0,15.0,46515.4,6512.16,764.16,257.86,No,Delivered,4.2,Net Banking
+ORD10379,2025-05-23,East,1074,28.0,Consumer,Website,Electronics,2,33568.0,15.0,57065.6,7989.18,2319.64,227.81,No,Delivered,4.7,Net Banking
+ORD10487,2025-05-20,South,1057,21.0,Consumer,Website,Electronics,2,31923.0,15.0,54269.1,7597.67,1777.78,269.99,No,Delivered,4.2,UPI
+ORD10401,2025-02-22,North,1019,43.0,Consumer,Mobile App,Fashion,5,2523.0,10.0,11353.5,4314.33,635.09,300.69,No,Delivered,4.1,Net Banking
+ORD10187,2025-05-10,East,1030,58.0,Consumer,Retail Store,Electronics,1,29245.0,5.0,27782.75,3889.59,1502.72,299.45,No,Delivered,4.0,Credit Card
+ORD10009,2025-05-02,East,1113,41.0,SMB,Mobile App,Home & Kitchen,5,8335.0,15.0,35423.75,8501.7,2046.46,381.29,No,Delivered,5.0,Net Banking
+ORD10086,2025-06-06,South,1143,57.0,SMB,Website,Home & Kitchen,1,6693.0,15.0,5689.05,1365.37,2627.61,326.8,Yes,Returned,3.2,UPI
+ORD10396,2025-03-11,South,1031,38.0,SMB,Retail Store,Home & Kitchen,1,9696.0,15.0,8241.6,1977.98,771.39,159.57,Yes,Returned,4.1,COD
+ORD10521,2025-02-27,West,1065,54.0,Consumer,Website,Fashion,1,2742.0,0.0,2742.0,1041.96,864.4,112.89,Yes,Returned,4.7,Debit Card
+ORD10498,2025-03-06,East,1057,18.0,SMB,Website,Fashion,1,3867.0,10.0,3480.3,1322.51,2623.8,102.97,No,Delivered,4.1,Debit Card
+ORD10097,2025-05-19,East,1094,43.0,Consumer,Marketplace,Fashion,1,2433.0,10.0,2189.7,832.09,2205.02,379.41,No,Delivered,4.2,Debit Card
+ORD10276,2025-05-26,West,1113,23.0,Consumer,Mobile App,Sports,2,4065.0,25.0,6097.5,1951.2,2267.95,207.73,No,Delivered,4.4,Credit Card
+ORD10157,2025-02-13,West,1034,44.0,Consumer,Website,Beauty,3,2133.0,15.0,5439.15,2447.62,1149.5,357.2,No,Delivered,4.3,Net Banking
+ORD10399,2025-04-11,South,1128,36.0,Enterprise,Website,Home & Kitchen,2,6446.0,15.0,10958.2,2629.97,2725.56,246.57,No,Delivered,4.3,Debit Card
+ORD10427,2025-02-27,South,1004,20.0,Consumer,Marketplace,Electronics,3,27218.0,15.0,69405.9,9716.83,2558.32,406.3,No,Delivered,3.6,Net Banking
+ORD10122,2025-05-11,East,1036,23.0,Consumer,Mobile App,Beauty,1,2236.0,20.0,1788.8,804.96,2481.78,434.91,No,Delivered,4.4,Net Banking
+ORD10545,2025-01-30,South,1009,56.0,Enterprise,Marketplace,Sports,1,3817.0,20.0,3053.6,977.15,2937.81,153.06,No,Delivered,3.5,UPI
+ORD10212,2025-04-26,South,1150,55.0,Enterprise,Retail Store,Fashion,2,3896.0,10.0,7012.8,2664.86,1671.98,117.62,No,Delivered,3.8,COD
+ORD10309,2025-04-07,South,1074,25.0,Consumer,Website,Home & Kitchen,3,7435.0,0.0,22305.0,5353.2,1215.89,341.04,No,Delivered,4.0,Debit Card
+ORD10390,2025-02-27,South,1075,44.0,SMB,Retail Store,Electronics,2,33780.0,0.0,67560.0,9458.4,2518.43,301.36,No,Delivered,5.0,COD
+ORD10369,2025-05-15,West,1073,58.0,Consumer,Marketplace,Beauty,1,1566.0,0.0,1566.0,704.7,1261.45,380.61,No,Delivered,4.0,UPI
+ORD10165,2025-01-27,North,1124,46.0,Consumer,Mobile App,Fashion,1,2664.0,10.0,2397.6,911.09,2354.39,311.15,No,Delivered,4.2,COD
+ORD10534,2025-02-05,North,1119,18.0,SMB,Marketplace,Sports,3,3280.0,10.0,8856.0,2833.92,2483.14,226.8,No,Cancelled,4.1,Debit Card
+ORD10295,2025-02-02,East,1020,38.0,SMB,Website,Electronics,1,33785.0,15.0,28717.25,4020.42,1985.45,499.6,No,Delivered,4.3,COD
+ORD10440,2025-04-06,South,1077,48.0,Consumer,Mobile App,Beauty,1,1989.0,20.0,1591.2,716.04,1535.45,411.35,No,Delivered,4.1,Debit Card
+ORD10235,2025-05-09,North,1048,50.0,Consumer,Website,Fashion,2,3637.0,5.0,6910.3,2625.91,2912.91,346.97,No,Delivered,3.7,Debit Card
+ORD10180,2025-04-06,West,1037,44.0,SMB,Website,Electronics,2,29025.0,5.0,55147.5,7720.65,2468.05,100.12,No,Delivered,4.0,Debit Card
+ORD10070,2025-02-23,West,1130,56.0,SMB,Website,Beauty,1,2197.0,15.0,1867.45,840.35,2716.65,294.06,No,Delivered,3.8,Credit Card
+ORD10272,2025-04-22,North,1023,30.0,SMB,Marketplace,Electronics,2,27379.0,5.0,52020.1,7282.81,1498.18,312.67,No,Delivered,3.8,Net Banking
+ORD10574,2025-05-31,North,1149,20.0,Consumer,Marketplace,Home & Kitchen,4,7810.0,20.0,24992.0,5998.08,2064.68,137.85,No,Cancelled,4.0,Net Banking
+ORD10024,2025-01-21,East,1012,59.0,SMB,Website,Home & Kitchen,1,9553.0,15.0,8120.05,1948.81,1588.44,146.55,No,Delivered,4.5,Debit Card
+ORD10336,2025-03-08,South,1021,34.0,SMB,Retail Store,Beauty,2,1364.0,20.0,2182.4,982.08,1969.39,449.32,No,Delivered,4.0,UPI
+ORD10571,2025-06-29,West,1084,51.0,Consumer,Retail Store,Beauty,2,1504.0,15.0,2556.8,1150.56,2596.36,296.12,No,Delivered,4.3,Credit Card
+ORD10059,2025-02-04,North,1036,57.0,Enterprise,Mobile App,Beauty,1,2229.0,15.0,1894.65,852.59,629.1,254.05,No,Delivered,4.3,COD
+ORD10529,2025-05-18,East,1120,41.0,Consumer,Website,Beauty,2,1573.0,0.0,3146.0,1415.7,856.22,279.11,No,Delivered,4.1,COD
+ORD10501,2025-03-15,West,1055,54.0,Consumer,Website,Fashion,1,3305.0,5.0,3139.75,1193.1,1364.04,152.32,No,Delivered,4.1,Debit Card
+ORD10266,2025-03-16,South,1077,28.0,SMB,Marketplace,Fashion,3,3391.0,10.0,9155.7,3479.17,1225.67,204.51,No,Cancelled,3.7,Credit Card
+ORD10469,2025-03-10,East,1049,56.0,SMB,Website,Electronics,2,24841.0,0.0,49682.0,6955.48,924.67,162.6,No,Delivered,3.8,Net Banking
+ORD10442,2025-04-28,North,1028,31.0,Consumer,Mobile App,Fashion,2,2908.0,5.0,5525.2,2099.58,2414.1,171.45,No,Delivered,4.0,UPI
+ORD10093,2025-03-29,South,1104,39.0,Enterprise,Website,Beauty,1,1490.0,0.0,1490.0,670.5,2278.72,111.22,No,Delivered,4.3,Debit Card
+ORD10393,2025-02-18,North,1020,21.0,SMB,Website,Beauty,1,1476.0,10.0,1328.4,597.78,2491.24,396.31,No,Delivered,4.4,Debit Card
+ORD10412,2025-02-24,South,1035,38.0,Enterprise,Website,Electronics,1,24136.0,5.0,22929.2,3210.09,2265.63,380.56,No,Delivered,4.9,Debit Card
+ORD10374,2025-03-06,North,1041,24.0,Enterprise,Mobile App,Home & Kitchen,1,7303.0,5.0,6937.85,1665.08,2430.36,389.47,No,Delivered,4.1,COD
+ORD10148,2025-01-28,South,1122,23.0,Enterprise,Mobile App,Electronics,2,30779.0,15.0,52324.3,7325.4,1484.35,295.4,No,Delivered,4.3,Debit Card
+ORD10252,2025-02-06,West,1061,44.0,SMB,Website,Fashion,2,3599.0,5.0,6838.1,2598.48,1854.62,272.34,No,Delivered,4.6,Debit Card
+ORD10213,2025-04-08,East,1064,58.0,SMB,Marketplace,Electronics,2,26261.0,15.0,44643.7,6250.12,1974.65,380.45,No,Delivered,4.2,COD
+ORD10479,2025-01-16,North,1045,20.0,Enterprise,Marketplace,Fashion,1,2737.0,5.0,2600.15,988.06,1083.12,109.84,No,Delivered,4.3,UPI
+ORD10277,2025-05-08,North,1098,18.0,SMB,Mobile App,Electronics,3,32123.0,10.0,86732.1,12142.49,1113.95,340.86,Yes,Delivered,3.7,Net Banking
+ORD10554,2025-06-26,West,1137,42.0,SMB,Retail Store,Fashion,1,2931.0,15.0,2491.35,946.71,1994.16,365.13,No,Delivered,4.3,COD
+ORD10339,2025-01-25,South,1074,32.0,Consumer,Retail Store,Electronics,2,33222.0,5.0,63121.8,8837.05,1679.62,187.14,No,Delivered,4.2,Debit Card
+ORD10013,2025-04-10,South,1133,51.0,Enterprise,Website,Fashion,3,3733.0,10.0,10079.1,3830.06,2621.13,279.69,Yes,Delivered,3.6,Credit Card
+ORD10304,2025-01-08,South,1025,45.0,Enterprise,Marketplace,Sports,1,3391.0,5.0,3221.45,1030.86,2450.01,262.98,Yes,Delivered,2.4,Net Banking
+ORD10576,2025-02-26,North,1011,41.0,SMB,Mobile App,Sports,3,3668.0,15.0,9353.4,2993.09,1901.25,87.78,No,Delivered,3.7,COD
+ORD10444,2025-03-30,South,1010,28.0,SMB,Website,Fashion,3,2820.0,5.0,8037.0,3054.06,1533.41,100.19,No,Delivered,4.3,COD
+ORD10387,2025-03-04,West,1140,55.0,SMB,Marketplace,Sports,2,3478.0,0.0,6956.0,2225.92,820.75,295.89,No,Delivered,4.2,Debit Card
+ORD10261,2025-02-23,West,1098,21.0,Enterprise,Website,Home & Kitchen,2,9083.0,10.0,16349.4,3923.86,925.32,309.69,No,Cancelled,4.6,UPI
+ORD10505,2025-05-21,South,1016,50.0,Enterprise,Marketplace,Fashion,2,3505.0,10.0,6309.0,2397.42,2314.69,258.41,No,Delivered,4.2,Net Banking
+ORD10055,2025-04-21,North,1011,35.0,Consumer,Marketplace,Fashion,1,2794.0,10.0,2514.6,955.55,763.31,113.27,Yes,Delivered,3.3,UPI
+ORD10579,2025-06-30,South,1050,47.0,SMB,Mobile App,Fashion,1,2940.0,10.0,2646.0,1005.48,954.87,385.54,No,Delivered,4.5,Net Banking
+ORD10151,2025-02-14,East,1081,41.0,Enterprise,Mobile App,Home & Kitchen,2,10214.0,10.0,18385.2,4412.45,2291.01,376.92,No,Delivered,3.9,Net Banking
+ORD10344,2025-06-23,East,1068,55.0,SMB,Mobile App,Beauty,1,2198.0,10.0,1978.2,890.19,1200.88,120.75,No,Delivered,4.0,Debit Card
+ORD10535,2025-04-06,South,1076,36.0,Consumer,Website,Beauty,1,1832.0,20.0,1465.6,659.52,1158.34,212.6,No,Delivered,3.5,Net Banking
+ORD10592,2025-01-07,East,1023,22.0,Consumer,Marketplace,Home & Kitchen,1,6724.0,5.0,6387.8,1533.07,1215.15,205.95,Yes,Returned,4.4,Net Banking
+ORD10107,2025-05-15,North,1061,26.0,Consumer,Website,Home & Kitchen,2,10569.0,10.0,19024.2,4565.81,928.12,475.8,No,Delivered,4.3,COD
+ORD10232,2025-02-08,West,1079,35.0,Consumer,Website,Sports,1,3603.0,15.0,3062.55,980.02,1790.23,350.68,No,Delivered,4.5,Net Banking
+ORD10238,2025-05-31,West,1051,27.0,Enterprise,Marketplace,Electronics,1,33913.0,0.0,33913.0,4747.82,2818.98,174.85,No,Delivered,4.6,Net Banking
+ORD10411,2025-04-09,North,1020,55.0,SMB,Mobile App,Fashion,2,3752.0,15.0,6378.4,2423.79,668.2,432.13,No,Delivered,4.1,Net Banking
+ORD10025,2025-06-10,East,1145,46.0,Enterprise,Marketplace,Electronics,1,32344.0,15.0,27492.4,3848.94,2441.27,106.13,No,Delivered,3.9,COD
+ORD10300,2025-06-07,South,1132,55.0,SMB,Website,Electronics,5,30065.0,10.0,135292.5,18940.95,1107.93,300.16,No,Delivered,4.7,Credit Card
+ORD10383,2025-02-01,West,1138,28.0,Enterprise,Website,Sports,1,4817.0,0.0,4817.0,1541.44,2294.61,186.79,No,Delivered,5.0,UPI
+ORD10565,2025-05-24,East,1109,45.0,SMB,Website,Beauty,4,2170.0,20.0,6944.0,3124.8,426.88,408.33,No,Delivered,4.5,UPI
+ORD10384,2025-03-27,East,1075,47.0,Consumer,Retail Store,Sports,2,3482.0,25.0,5223.0,1671.36,1126.92,345.04,No,Delivered,3.9,COD
+ORD10464,2025-04-10,North,1084,53.0,Consumer,Mobile App,Sports,4,4763.0,5.0,18099.4,5791.81,1234.73,103.29,No,Delivered,4.1,Net Banking
+ORD10083,2025-06-03,East,1057,59.0,Enterprise,Website,Fashion,3,3160.0,15.0,8058.0,3062.04,1316.32,479.9,Yes,Delivered,3.5,COD
+ORD10500,2025-06-17,South,1133,20.0,Consumer,Retail Store,Fashion,2,2609.0,20.0,4174.4,1586.27,328.49,123.16,Yes,Delivered,3.1,COD
+ORD10516,2025-03-31,West,1082,38.0,Consumer,Website,Sports,2,3705.0,15.0,6298.5,2015.52,1386.41,439.98,No,Delivered,4.1,COD
+ORD10102,2025-02-02,North,1034,40.0,Consumer,Mobile App,Fashion,2,3961.0,5.0,7525.9,2859.84,2219.7,342.59,No,Delivered,4.1,Credit Card
+ORD10077,2025-01-15,North,1015,38.0,Consumer,Mobile App,Home & Kitchen,2,10166.0,5.0,19315.4,4635.7,2084.16,101.21,No,Delivered,4.0,UPI
+ORD10292,2025-05-15,West,1059,27.0,Enterprise,Website,Electronics,3,24821.0,5.0,70739.85,9903.58,1615.94,204.55,No,Delivered,4.6,COD
+ORD10283,2025-06-10,North,1099,54.0,Consumer,Website,Fashion,1,3987.0,25.0,2990.25,1136.3,1655.42,289.81,No,Delivered,3.6,Debit Card
+ORD10567,2025-03-10,East,1140,40.0,SMB,Website,Sports,3,4691.0,10.0,12665.7,4053.02,1393.9,189.48,No,Delivered,3.8,Net Banking
+ORD10553,2025-01-19,North,1051,48.0,Enterprise,Marketplace,Sports,1,3737.0,15.0,3176.45,1016.46,880.92,253.76,No,Delivered,3.9,Net Banking
+ORD10113,2025-05-31,South,1022,52.0,SMB,Mobile App,Electronics,1,23184.0,20.0,18547.2,2596.61,2295.55,169.52,Yes,Delivered,3.3,COD
+ORD10436,2025-02-27,West,1058,35.0,Consumer,Marketplace,Fashion,2,3852.0,5.0,7318.8,2781.14,2116.44,261.44,No,Delivered,,COD
+ORD10417,2025-04-24,South,1102,33.0,Enterprise,Website,Electronics,1,30707.0,5.0,29171.65,4084.03,1668.05,371.42,No,Delivered,3.7,Net Banking
+ORD10247,2025-04-23,East,1039,41.0,Enterprise,Website,Fashion,1,3770.0,0.0,3770.0,1432.6,1696.69,437.75,No,Delivered,5.0,COD
+ORD10146,2025-03-12,North,1129,26.0,Consumer,Mobile App,Electronics,2,32196.0,15.0,54733.2,7662.65,904.6,157.87,No,Delivered,4.4,Debit Card
+ORD10284,2025-03-09,South,1061,44.0,SMB,Website,Fashion,4,3266.0,0.0,13064.0,4964.32,1874.45,401.21,No,Delivered,4.0,Credit Card
+ORD10371,2025-02-05,North,1031,38.0,Consumer,Website,Sports,1,3393.0,0.0,3393.0,1085.76,1040.12,492.89,No,Delivered,4.6,Net Banking
+ORD10509,2025-05-10,North,1150,21.0,Consumer,Website,Home & Kitchen,1,7053.0,10.0,6347.7,1523.45,818.28,276.15,No,Delivered,3.9,Debit Card
+ORD10111,2025-02-02,South,1127,30.0,Enterprise,Marketplace,Fashion,5,3531.0,5.0,16772.25,6373.46,519.14,369.1,Yes,Returned,4.0,Net Banking
+ORD10584,2025-05-13,North,1014,22.0,Consumer,Website,Beauty,2,2138.0,5.0,4062.2,1827.99,1297.26,106.54,No,Delivered,3.8,COD
+ORD10091,2025-03-12,North,1088,50.0,Enterprise,Website,Electronics,3,22602.0,5.0,64415.7,9018.2,2520.02,230.26,No,Delivered,4.6,Net Banking
+ORD10206,2025-03-09,South,1085,56.0,SMB,Website,Beauty,2,2045.0,5.0,3885.5,1748.48,2188.91,129.99,No,Delivered,4.2,Debit Card
+ORD10171,2025-05-17,South,1106,42.0,SMB,Mobile App,Fashion,1,3323.0,15.0,2824.55,1073.33,2292.28,147.47,No,Delivered,4.5,COD
+ORD10110,2025-06-11,South,1068,26.0,SMB,Mobile App,Sports,1,4892.0,15.0,4158.2,1330.62,1986.59,304.34,Yes,Delivered,2.8,Net Banking
+ORD10233,2025-03-23,North,1008,60.0,Consumer,Retail Store,Electronics,2,25704.0,5.0,48837.6,6837.26,952.96,156.8,No,Delivered,3.8,Net Banking
+ORD10057,2025-01-08,South,1039,56.0,Enterprise,Website,Sports,2,4403.0,5.0,8365.7,2677.02,1549.0,88.17,No,Delivered,4.6,Credit Card
+ORD10242,2025-01-07,North,1127,20.0,SMB,Website,Fashion,1,2489.0,15.0,2115.65,803.95,2224.2,137.56,No,Delivered,4.8,UPI
+ORD10088,2025-02-14,North,1082,41.0,Consumer,Mobile App,Sports,5,4263.0,20.0,17052.0,5456.64,1795.32,244.75,No,Delivered,4.9,Net Banking
+ORD10347,2025-02-01,West,1090,47.0,Enterprise,Mobile App,Beauty,2,2052.0,5.0,3898.8,1754.46,2293.05,426.51,No,Delivered,3.9,UPI
+ORD10098,2025-03-22,East,1042,25.0,Consumer,Mobile App,Beauty,1,2094.0,0.0,2094.0,942.3,1130.8,245.02,Yes,Delivered,3.1,Net Banking
+ORD10522,2025-04-24,North,1057,60.0,Consumer,Mobile App,Beauty,4,1728.0,15.0,5875.2,2643.84,2178.65,320.84,No,Delivered,3.8,Credit Card
+ORD10117,2025-06-21,West,1030,51.0,Consumer,Website,Fashion,1,2899.0,5.0,2754.05,1046.54,2387.6,450.7,No,Delivered,4.2,COD
+ORD10202,2025-02-22,North,1125,48.0,SMB,Website,Fashion,5,3879.0,25.0,14546.25,5527.58,866.72,255.3,Yes,Delivered,3.5,UPI
+ORD10531,2025-06-01,West,1015,58.0,Enterprise,Website,Sports,1,3915.0,0.0,3915.0,1252.8,1223.04,194.0,No,Delivered,4.2,Net Banking
+ORD10324,2025-04-09,East,1008,60.0,SMB,Retail Store,Fashion,1,3177.0,15.0,2700.45,1026.17,1910.37,274.88,No,Delivered,4.6,COD
+ORD10468,2025-01-10,West,1063,34.0,SMB,Mobile App,Home & Kitchen,2,8702.0,5.0,16533.8,3968.11,2688.98,449.07,No,Delivered,4.4,UPI
+ORD10237,2025-06-27,East,1028,56.0,Consumer,Mobile App,Home & Kitchen,1,7179.0,10.0,6461.1,1550.66,1823.87,406.64,No,Cancelled,3.6,Credit Card
+ORD10214,2025-05-19,East,1041,53.0,Enterprise,Website,Beauty,2,1987.0,10.0,3576.6,1609.47,1589.9,193.88,No,Delivered,4.3,Credit Card
+ORD10462,2025-03-26,East,1125,22.0,Consumer,Website,Electronics,5,24320.0,0.0,121600.0,17024.0,1965.12,493.25,No,Delivered,4.0,Net Banking
+ORD10557,2025-05-27,South,1109,27.0,SMB,Mobile App,Sports,1,4744.0,5.0,4506.8,1442.18,387.62,403.41,No,Delivered,4.5,Net Banking
+ORD10449,2025-01-22,South,1112,45.0,Consumer,Website,Sports,2,3947.0,5.0,7499.3,2399.78,1320.58,173.36,No,Delivered,4.2,Debit Card
+ORD10512,2025-03-31,North,1054,50.0,Enterprise,Retail Store,Sports,2,3643.0,5.0,6921.7,2214.94,1153.78,135.36,Yes,Delivered,3.0,Net Banking
+ORD10475,2025-04-06,South,1082,36.0,SMB,Website,Fashion,4,3541.0,0.0,14164.0,5382.32,1068.42,367.27,No,Delivered,4.8,Credit Card
+ORD10465,2025-02-02,West,1016,53.0,Consumer,Mobile App,Fashion,1,3201.0,5.0,3040.95,1155.56,2065.22,429.87,No,Delivered,3.6,COD
+ORD10338,2025-01-18,South,1057,59.0,SMB,Website,Electronics,4,22482.0,20.0,71942.4,10071.94,2100.18,306.46,No,Delivered,4.3,Net Banking
+ORD10297,2025-04-25,South,1130,18.0,SMB,Mobile App,Home & Kitchen,1,6396.0,0.0,6396.0,1535.04,813.91,123.35,No,Delivered,4.0,Credit Card
+ORD10226,2025-05-28,North,1070,45.0,Enterprise,Marketplace,Beauty,1,1601.0,15.0,1360.85,612.38,1817.03,230.64,Yes,Delivered,2.9,Net Banking
+ORD10537,2025-05-31,South,1131,31.0,SMB,Retail Store,Electronics,3,31520.0,10.0,85104.0,11914.56,1331.76,365.84,No,Delivered,5.0,Debit Card
+ORD10090,2025-03-30,North,1105,47.0,SMB,Website,Sports,1,3499.0,10.0,3149.1,1007.71,1059.76,386.6,No,Delivered,4.4,COD
+ORD10359,2025-06-25,North,1056,47.0,SMB,Website,Home & Kitchen,1,7323.0,10.0,6590.7,1581.77,592.02,423.09,Yes,Cancelled,3.4,Net Banking
+ORD10471,2025-02-03,West,1033,21.0,SMB,Website,Home & Kitchen,1,7290.0,0.0,7290.0,1749.6,2981.82,166.36,No,Delivered,4.6,Net Banking
+ORD10467,2025-01-23,East,1059,41.0,Enterprise,Website,Home & Kitchen,1,7435.0,20.0,5948.0,1427.52,1966.49,188.76,No,Delivered,3.9,Credit Card
+ORD10588,2025-03-17,East,1069,21.0,Consumer,Website,Fashion,1,2569.0,10.0,2312.1,878.6,2637.04,396.2,No,Delivered,4.7,Debit Card
+ORD10519,2025-04-15,South,1049,21.0,Enterprise,Retail Store,Fashion,1,2457.0,20.0,1965.6,746.93,718.12,285.48,Yes,Delivered,2.9,Debit Card
+ORD10020,2025-03-29,South,1063,45.0,Enterprise,Marketplace,Electronics,1,30020.0,10.0,27018.0,3782.52,2017.33,92.77,Yes,Delivered,3.0,COD
+ORD10015,2025-06-01,North,1121,44.0,Consumer,Website,Sports,3,4964.0,5.0,14147.4,4527.17,887.82,369.43,No,Delivered,5.0,UPI
+ORD10253,2025-06-09,East,1148,54.0,SMB,Website,Fashion,4,3090.0,10.0,11124.0,4227.12,2604.87,246.65,No,Delivered,4.0,UPI
+ORD10419,2025-04-16,South,1094,59.0,Consumer,Retail Store,Home & Kitchen,2,7359.0,20.0,11774.4,2825.86,2324.87,398.88,Yes,Delivered,3.1,COD
+ORD10329,2025-02-15,South,1147,53.0,SMB,Mobile App,Sports,1,4691.0,15.0,3987.35,1275.95,1734.66,111.48,No,Delivered,4.1,UPI
+ORD10121,2025-06-24,West,1014,49.0,SMB,Website,Sports,1,4078.0,20.0,3262.4,1043.97,401.78,104.25,No,Delivered,4.7,Credit Card
+ORD10333,2025-04-26,South,1043,20.0,SMB,Mobile App,Home & Kitchen,1,7884.0,5.0,7489.8,1797.55,1109.11,89.09,No,Delivered,4.4,COD
+ORD10286,2025-05-22,East,1064,22.0,SMB,Website,Beauty,1,2195.0,5.0,2085.25,938.36,447.18,418.84,No,Delivered,4.2,Credit Card
+ORD10334,2025-06-09,South,1020,60.0,SMB,Mobile App,Electronics,4,21633.0,10.0,77878.8,10903.03,2897.68,118.55,No,Delivered,4.3,Net Banking
+ORD10043,2025-06-16,North,1022,32.0,SMB,Retail Store,Electronics,2,29183.0,20.0,46692.8,6536.99,2177.01,271.83,No,Delivered,4.4,Net Banking
+ORD10197,2025-03-28,West,1088,31.0,Consumer,Mobile App,Electronics,1,25115.0,15.0,21347.75,2988.69,1384.04,494.32,No,Delivered,4.4,COD
+ORD10520,2025-05-15,South,1111,38.0,SMB,Marketplace,Electronics,1,33977.0,15.0,28880.45,4043.26,1307.1,171.45,Yes,Delivered,2.7,UPI
+ORD10034,2025-02-20,South,1124,49.0,Consumer,Mobile App,Beauty,3,1372.0,20.0,3292.8,1481.76,1121.45,295.54,No,Delivered,4.3,Net Banking
+ORD10251,2025-05-20,North,1132,41.0,Consumer,Retail Store,Home & Kitchen,4,7727.0,5.0,29362.6,7047.02,495.15,303.22,No,Delivered,4.3,Net Banking
+ORD10228,2025-02-21,South,1031,46.0,Consumer,Mobile App,Beauty,2,2186.0,10.0,3934.8,1770.66,2801.03,261.54,No,Delivered,4.1,COD
+ORD10478,2025-01-04,West,1094,60.0,Consumer,Website,Fashion,3,2774.0,5.0,7905.9,3004.24,2149.97,277.01,No,Delivered,4.1,Credit Card
+ORD10481,2025-03-21,East,1015,27.0,Consumer,Retail Store,Fashion,1,3713.0,5.0,3527.35,1340.39,1016.06,220.99,No,Delivered,4.1,UPI
+ORD10576,2025-02-26,North,1011,41.0,SMB,Mobile App,Sports,3,3668.0,15.0,9353.4,2993.09,1901.25,87.78,No,Delivered,3.7,COD
+ORD10435,2025-05-09,South,1039,39.0,Consumer,Website,Home & Kitchen,2,6499.0,10.0,11698.2,2807.57,1176.44,88.05,Yes,Returned,3.6,Net Banking
+ORD10482,2025-01-02,North,1046,57.0,SMB,Website,Fashion,1,3105.0,10.0,2794.5,1061.91,758.35,321.32,No,Delivered,4.1,COD
+ORD10291,2025-05-16,West,1149,59.0,Enterprise,Marketplace,Sports,1,4641.0,0.0,4641.0,1485.12,535.2,289.66,No,Delivered,4.5,Credit Card
+ORD10311,2025-04-21,North,1022,29.0,SMB,Marketplace,Electronics,3,32986.0,20.0,79166.4,11083.3,410.88,266.83,Yes,Cancelled,3.4,Credit Card
+ORD10017,2025-05-30,South,1078,52.0,Enterprise,Website,Sports,1,5093.0,15.0,4329.05,1385.3,825.24,498.66,No,Delivered,4.1,COD
+ORD10159,2025-01-30,West,1049,41.0,Consumer,Marketplace,Home & Kitchen,2,10499.0,15.0,17848.3,4283.59,2579.65,135.19,No,Delivered,4.3,Credit Card
+ORD10244,2025-03-31,South,1010,42.0,SMB,Mobile App,Electronics,1,30121.0,15.0,25602.85,3584.4,1572.53,422.76,No,Delivered,3.6,UPI
+ORD10067,2025-02-23,North,1031,58.0,SMB,Website,Home & Kitchen,1,9313.0,15.0,7916.05,1899.85,1563.55,412.64,Yes,Delivered,3.5,Debit Card
+ORD10147,2025-03-27,South,1056,49.0,Consumer,Mobile App,Sports,2,3409.0,10.0,6136.2,1963.58,1280.84,156.47,No,Delivered,4.5,Debit Card
+ORD10360,2025-02-08,West,1022,44.0,Consumer,Website,Electronics,1,33224.0,20.0,26579.2,3721.09,2573.69,394.81,No,Delivered,4.5,Net Banking
+ORD10573,2025-02-22,East,1012,22.0,Consumer,Marketplace,Electronics,1,29188.0,15.0,24809.8,3473.37,1764.95,460.56,No,Delivered,4.4,Credit Card
+ORD10120,2025-04-11,South,1024,32.0,Consumer,Website,Beauty,1,2138.0,20.0,1710.4,769.68,1744.41,134.27,No,Delivered,4.3,COD
+ORD10141,2025-06-20,East,1042,51.0,Enterprise,Website,Electronics,2,30185.0,10.0,54333.0,7606.62,669.96,376.31,Yes,Delivered,3.4,Debit Card
+ORD10066,2025-05-14,East,1128,24.0,Consumer,Retail Store,Electronics,1,24027.0,10.0,21624.3,3027.4,1731.17,318.74,No,Delivered,4.5,Net Banking
+ORD10239,2025-06-08,West,1104,26.0,Enterprise,Marketplace,Beauty,1,1976.0,20.0,1580.8,711.36,1883.58,153.93,No,Delivered,3.8,Debit Card
+ORD10010,2025-03-16,South,1091,32.0,SMB,Mobile App,Electronics,1,34159.0,10.0,30743.1,4304.03,1987.45,266.3,No,Delivered,4.4,UPI
+ORD10560,2025-01-28,West,1128,58.0,SMB,Mobile App,Electronics,2,30713.0,10.0,55283.4,7739.68,1377.64,224.61,No,Delivered,4.0,Credit Card
+ORD10019,2025-01-02,South,1115,25.0,Enterprise,Mobile App,Beauty,2,1399.0,5.0,2658.1,1196.14,2126.94,126.68,No,Delivered,4.2,UPI
+ORD10409,2025-04-04,South,1149,34.0,Consumer,Marketplace,Home & Kitchen,1,7786.0,0.0,7786.0,1868.64,1401.3,265.11,No,Delivered,4.2,Debit Card
+ORD10154,2025-01-28,North,1091,29.0,SMB,Retail Store,Electronics,2,28142.0,10.0,50655.6,7091.78,1216.17,182.54,No,Cancelled,4.7,Debit Card
+ORD10523,2025-03-16,North,1027,48.0,Consumer,Mobile App,Sports,1,3170.0,5.0,3011.5,963.68,2849.36,121.3,No,Delivered,4.5,UPI
+ORD10452,2025-06-03,West,1096,36.0,Consumer,Website,Home & Kitchen,1,6763.0,15.0,5748.55,1379.65,2438.23,186.42,No,Delivered,4.4,COD
+ORD10480,2025-01-24,West,1062,49.0,Consumer,Retail Store,Sports,2,4950.0,15.0,8415.0,2692.8,843.95,423.69,No,Delivered,4.4,COD
+ORD10257,2025-02-17,East,1034,56.0,Consumer,Marketplace,Sports,2,3764.0,5.0,7151.6,2288.51,845.8,189.5,Yes,Delivered,3.6,Debit Card
+ORD10312,2025-03-02,South,1070,22.0,SMB,Website,Home & Kitchen,1,7891.0,10.0,7101.9,1704.46,2311.03,457.75,Yes,Returned,4.1,COD
+ORD10543,2025-04-09,East,1023,29.0,SMB,Website,Fashion,1,2661.0,10.0,2394.9,910.06,1977.2,491.52,No,Delivered,4.2,Debit Card
+ORD10305,2025-01-27,South,1131,50.0,Consumer,Retail Store,Beauty,3,2197.0,10.0,5931.9,2669.36,2548.93,134.22,No,Delivered,4.5,UPI
+ORD10273,2025-04-09,North,1109,26.0,Consumer,Mobile App,Home & Kitchen,2,9257.0,5.0,17588.3,4221.19,1062.39,205.14,No,Delivered,4.3,COD
+ORD10558,2025-03-17,West,1044,41.0,Consumer,Website,Electronics,2,31185.0,5.0,59251.5,8295.21,936.09,344.67,No,Delivered,,Debit Card
+ORD10414,2025-02-21,South,1110,30.0,Consumer,Mobile App,Beauty,2,1811.0,10.0,3259.8,1466.91,995.19,455.11,No,Cancelled,4.1,Debit Card
+ORD10134,2025-03-04,West,1054,36.0,Consumer,Retail Store,Home & Kitchen,2,6912.0,25.0,10368.0,2488.32,2875.91,92.16,Yes,Returned,5.0,UPI
+ORD10032,2025-01-15,West,1074,56.0,Consumer,Mobile App,Electronics,1,21848.0,5.0,20755.6,2905.78,2789.92,338.33,No,Delivered,4.1,Net Banking
+ORD10254,2025-01-09,North,1138,55.0,Consumer,Retail Store,Fashion,1,2540.0,15.0,2159.0,820.42,2258.28,261.11,No,Delivered,4.2,Debit Card
+ORD10271,2025-03-25,North,1028,38.0,Consumer,Marketplace,Home & Kitchen,1,7819.0,10.0,7037.1,1688.9,948.59,267.39,No,Delivered,3.8,UPI
+ORD10162,2025-04-02,West,1084,35.0,Consumer,Website,Electronics,3,24912.0,15.0,63525.6,8893.58,1065.74,381.63,No,Delivered,4.0,Credit Card
+ORD10340,2025-02-23,East,1098,50.0,Consumer,Website,Electronics,2,28324.0,5.0,53815.6,7534.18,1457.66,402.51,No,Delivered,4.4,COD
+ORD10287,2025-01-21,North,1031,53.0,SMB,Mobile App,Home & Kitchen,1,8299.0,15.0,7054.15,1693.0,1147.92,185.76,No,Delivered,4.7,Credit Card
+ORD10511,2025-03-22,East,1102,44.0,SMB,Marketplace,Fashion,1,2523.0,5.0,2396.85,910.8,1033.19,175.04,No,Delivered,4.1,Debit Card
+ORD10438,2025-01-01,West,1088,19.0,SMB,Website,Electronics,3,24081.0,15.0,61406.55,8596.92,784.92,480.65,No,Delivered,4.2,Credit Card
+ORD10485,2025-03-25,South,1052,,Enterprise,Retail Store,Home & Kitchen,1,9007.0,5.0,8556.65,2053.6,605.91,125.03,No,Delivered,4.5,Net Banking
+ORD10492,2025-06-10,North,1033,59.0,Consumer,Marketplace,Fashion,1,2887.0,5.0,2742.65,1042.21,1691.32,179.48,No,Delivered,4.0,Debit Card
+ORD10342,2025-03-08,East,1115,28.0,Enterprise,Mobile App,Beauty,1,1720.0,,1720.0,774.0,359.63,327.11,No,Delivered,4.2,Debit Card
+ORD10337,2025-05-08,South,1082,54.0,Enterprise,Marketplace,Fashion,3,3330.0,25.0,7492.5,2847.15,2137.82,295.98,No,Delivered,4.9,COD
+ORD10152,2025-03-03,South,1120,30.0,Consumer,Retail Store,Fashion,1,3824.0,5.0,3632.8,1380.46,1750.01,354.83,No,Delivered,4.7,Debit Card
+ORD10002,2025-06-29,South,1097,42.0,Consumer,Marketplace,Beauty,2,1684.0,10.0,3031.2,1364.04,2652.38,395.14,Yes,Delivered,2.8,Debit Card
+ORD10225,2025-05-27,West,1051,39.0,Consumer,Website,Home & Kitchen,1,9037.0,0.0,9037.0,2168.88,2514.88,380.97,No,Delivered,4.1,COD
+ORD10208,2025-05-25,South,1111,51.0,Consumer,Retail Store,Beauty,2,1904.0,10.0,3427.2,1542.24,612.72,283.09,No,Cancelled,4.9,Credit Card
+ORD10430,2025-03-03,South,1077,36.0,Consumer,Retail Store,Electronics,3,28529.0,15.0,72748.95,10184.85,2600.97,419.86,No,Delivered,4.0,COD
+ORD10118,2025-04-14,East,1126,49.0,Enterprise,Website,Beauty,1,1353.0,0.0,1353.0,608.85,2113.29,120.73,No,Delivered,5.0,Net Banking
+ORD10559,2025-01-09,West,1110,27.0,Consumer,Website,Electronics,1,27781.0,15.0,23613.85,3305.94,1137.83,495.17,No,Delivered,4.4,Net Banking
+ORD10389,2025-05-30,South,1145,60.0,Enterprise,Mobile App,Electronics,1,26017.0,5.0,24716.15,3460.26,1737.0,345.39,Yes,Delivered,2.9,Debit Card
+ORD10508,2025-02-15,North,1015,43.0,Enterprise,Marketplace,Home & Kitchen,2,6598.0,15.0,11216.6,2691.98,1750.82,82.87,No,Delivered,3.8,UPI
+ORD10023,2025-05-10,West,1048,31.0,SMB,Retail Store,Electronics,2,28766.0,15.0,48902.2,6846.31,1131.26,172.7,No,Delivered,4.6,UPI
+ORD10265,2025-04-26,South,1065,39.0,Consumer,Marketplace,Beauty,3,1616.0,10.0,4363.2,1963.44,2493.28,268.69,No,Delivered,3.6,Debit Card
+ORD10275,2025-04-03,East,1145,28.0,Consumer,Website,Electronics,1,25856.0,10.0,23270.4,3257.86,2666.86,148.69,No,Delivered,5.0,Net Banking
+ORD10408,2025-04-26,West,1094,19.0,SMB,Mobile App,Fashion,1,3391.0,15.0,2882.35,1095.29,971.81,485.95,No,Delivered,4.1,Debit Card
+ORD10071,2025-05-26,South,1015,45.0,Consumer,Mobile App,Fashion,1,3641.0,10.0,3276.9,1245.22,2603.75,461.72,Yes,Delivered,3.1,COD
+ORD10129,2025-01-15,South,1065,48.0,Consumer,Marketplace,Beauty,2,1843.0,10.0,3317.4,1492.83,2629.89,136.0,No,Delivered,4.7,UPI
+ORD10445,2025-04-27,East,1126,50.0,Consumer,Website,Electronics,1,25383.0,5.0,24113.85,3375.94,2583.3,283.1,No,Delivered,5.0,Debit Card
+ORD10515,2025-06-03,South,1105,,SMB,Website,Beauty,2,1624.0,10.0,2923.2,1315.44,2108.34,173.92,No,Delivered,4.6,Credit Card
+ORD10099,2025-05-16,South,1133,23.0,Enterprise,Marketplace,Fashion,2,2985.0,15.0,5074.5,1928.31,953.87,188.66,Yes,Returned,4.0,Net Banking
+ORD10518,2025-04-25,East,1010,40.0,Consumer,Mobile App,Beauty,2,1600.0,15.0,2720.0,1224.0,1988.79,268.31,No,Delivered,3.9,Debit Card
+ORD10022,2025-02-07,East,1094,,Consumer,Retail Store,Home & Kitchen,1,6672.0,5.0,6338.4,1521.22,1860.14,447.09,No,Delivered,4.3,Net Banking
+ORD10194,2025-01-02,West,1077,56.0,Consumer,Mobile App,Fashion,3,2825.0,10.0,7627.5,2898.45,1410.25,288.34,No,Delivered,4.1,COD
+ORD10415,2025-05-24,West,1136,28.0,Consumer,Website,Electronics,2,31830.0,10.0,57294.0,8021.16,2390.93,369.56,No,Delivered,4.6,Net Banking
+ORD10006,2025-03-13,West,1124,33.0,SMB,Website,Beauty,1,1749.0,10.0,1574.1,708.34,2963.72,276.09,No,Delivered,4.0,Debit Card
+ORD10150,2025-06-19,South,1130,45.0,Consumer,Retail Store,Electronics,1,28194.0,0.0,28194.0,3947.16,2481.24,113.43,No,Delivered,4.9,Net Banking
+ORD10314,2025-05-27,South,1094,23.0,Consumer,Website,Fashion,2,2872.0,0.0,5744.0,2182.72,354.06,242.41,No,Delivered,4.5,UPI
+ORD10380,2025-04-02,South,1132,37.0,SMB,Website,Fashion,3,3592.0,10.0,9698.4,3685.39,2558.63,267.38,No,Delivered,4.0,COD
+ORD10136,2025-02-21,South,1042,32.0,SMB,Website,Home & Kitchen,4,9627.0,0.0,38508.0,9241.92,349.34,93.6,No,Delivered,4.5,UPI
+ORD10355,2025-04-14,North,1075,34.0,SMB,Website,Fashion,3,3654.0,10.0,9865.8,3749.0,2829.16,222.06,Yes,Delivered,3.4,UPI
+ORD10346,2025-04-24,West,1078,33.0,Consumer,Marketplace,Home & Kitchen,1,7454.0,25.0,5590.5,1341.72,673.59,328.93,No,Delivered,4.0,UPI
+ORD10572,2025-05-03,East,1025,50.0,SMB,Marketplace,Home & Kitchen,1,9891.0,0.0,9891.0,2373.84,2300.35,377.76,No,Delivered,4.4,COD
+ORD10405,2025-04-13,West,1145,53.0,Enterprise,Retail Store,Fashion,2,2899.0,10.0,5218.2,1982.92,1186.64,307.37,Yes,Delivered,3.2,UPI
+ORD10053,2025-03-25,North,1046,54.0,Consumer,Website,Home & Kitchen,2,10267.0,25.0,15400.5,3696.12,990.23,347.08,No,Delivered,4.3,Credit Card
+ORD10328,2025-04-03,East,1114,34.0,Consumer,Website,Electronics,1,22919.0,10.0,20627.1,2887.79,586.54,499.24,No,Delivered,4.4,Debit Card
+ORD10199,2025-05-27,South,1058,36.0,SMB,Website,Sports,4,5142.0,25.0,15426.0,4936.32,895.37,246.08,No,Delivered,4.1,Debit Card
+ORD10413,2025-06-17,South,1053,26.0,SMB,Marketplace,Fashion,4,2783.0,15.0,9462.2,3595.64,2495.5,368.52,No,Delivered,4.3,Credit Card
+ORD10123,2025-01-01,West,1024,38.0,Enterprise,Mobile App,Beauty,1,1706.0,10.0,1535.4,690.93,1165.96,104.8,No,Delivered,3.5,COD
+ORD10204,2025-06-09,West,1065,36.0,Enterprise,Mobile App,Electronics,2,29259.0,20.0,46814.4,6554.02,2917.96,473.89,No,Delivered,4.5,COD
+ORD10068,2025-04-16,North,1055,27.0,SMB,Retail Store,Beauty,2,1893.0,15.0,3218.1,1448.14,1408.91,494.41,No,Delivered,3.8,UPI
+ORD10224,2025-03-31,South,1049,43.0,SMB,Website,Home & Kitchen,2,6899.0,25.0,10348.5,2483.64,2795.0,207.38,Yes,Delivered,3.4,Debit Card
+ORD10128,2025-05-17,East,1080,45.0,Consumer,Website,Sports,3,3879.0,5.0,11055.15,3537.65,1376.33,360.56,No,Delivered,4.4,UPI
+ORD10144,2025-01-13,East,1026,35.0,SMB,Marketplace,Fashion,2,3453.0,20.0,5524.8,2099.42,1456.02,179.12,Yes,Delivered,2.7,Debit Card
+ORD10327,2025-01-24,North,1069,26.0,SMB,Retail Store,Fashion,1,3920.0,10.0,3528.0,1340.64,1327.3,354.77,No,Delivered,4.5,Debit Card
+ORD10542,2025-01-23,North,1023,55.0,Consumer,Website,Sports,2,4012.0,0.0,8024.0,2567.68,2013.3,472.88,No,Delivered,4.4,Debit Card
+ORD10351,2025-05-07,North,1145,41.0,SMB,Marketplace,Home & Kitchen,3,6767.0,15.0,17255.85,4141.4,2192.34,477.69,No,Delivered,4.5,UPI
+ORD10140,2025-05-23,West,1142,37.0,SMB,Website,Fashion,3,3153.0,10.0,8513.1,3234.98,2868.77,221.95,No,Delivered,4.2,COD
+ORD10418,2025-05-04,East,1047,19.0,Consumer,Website,Fashion,5,3437.0,25.0,12888.75,4897.73,2611.2,208.44,No,Cancelled,3.8,Debit Card
+ORD10455,2025-03-27,West,1141,23.0,Enterprise,Website,Beauty,1,2053.0,10.0,1847.7,831.46,1333.78,227.33,No,Delivered,4.9,Credit Card
+ORD10219,2025-04-03,South,1134,24.0,SMB,Website,Electronics,2,30052.0,0.0,60104.0,8414.56,1515.76,138.51,No,Delivered,4.8,COD
+ORD10526,2025-06-13,West,1071,58.0,Consumer,Marketplace,Electronics,2,34255.0,5.0,65084.5,9111.83,981.83,480.19,No,Delivered,4.2,COD
+ORD10331,2025-04-05,North,1139,29.0,Consumer,Website,Home & Kitchen,2,8855.0,5.0,16824.5,4037.88,1955.51,251.32,No,Delivered,4.4,COD
+ORD10158,2025-03-25,South,1110,36.0,Consumer,Marketplace,Sports,3,3996.0,15.0,10189.8,3260.74,2119.85,243.28,Yes,Returned,4.1,COD
+ORD10095,2025-05-16,West,1043,35.0,Consumer,Marketplace,Sports,1,4474.0,10.0,4026.6,1288.51,2251.52,445.27,No,Delivered,3.7,UPI
+ORD10256,2025-05-27,South,1105,44.0,Consumer,Website,Fashion,2,3070.0,5.0,5833.0,2216.54,535.09,80.87,Yes,Delivered,3.1,Debit Card
+ORD10080,2025-04-21,South,1092,21.0,SMB,Website,Home & Kitchen,2,9730.0,5.0,18487.0,4436.88,2583.26,190.34,No,Delivered,4.1,Net Banking
+ORD10132,2025-05-04,South,1029,32.0,Enterprise,Retail Store,Beauty,1,1529.0,0.0,1529.0,688.05,2618.66,85.74,No,Delivered,4.4,Debit Card
+ORD10227,2025-04-06,North,1037,41.0,SMB,Website,Home & Kitchen,2,10000.0,15.0,17000.0,4080.0,,192.47,No,Delivered,4.0,Credit Card
+ORD10040,2025-05-15,East,1134,41.0,Enterprise,Website,Home & Kitchen,1,9091.0,5.0,8636.45,2072.75,1244.45,237.86,No,Delivered,4.2,COD
+ORD10131,2025-02-11,East,1043,51.0,Enterprise,Mobile App,Home & Kitchen,2,9198.0,5.0,17476.2,4194.29,1743.58,423.22,No,Delivered,4.6,UPI
+ORD10133,2025-06-28,South,1081,31.0,SMB,Mobile App,Electronics,2,21629.0,20.0,34606.4,4844.9,1179.88,456.21,No,Delivered,4.8,COD
+ORD10190,2025-04-11,North,1107,25.0,SMB,Website,Home & Kitchen,3,8926.0,20.0,21422.4,5141.38,824.54,250.15,No,Delivered,4.4,UPI
+ORD10220,2025-01-03,West,1119,44.0,Enterprise,Retail Store,Beauty,1,1554.0,0.0,1554.0,699.3,1734.0,443.82,No,Delivered,5.0,UPI
+ORD10569,2025-05-20,East,1094,30.0,Consumer,Website,Home & Kitchen,1,8108.0,5.0,7702.6,1848.62,1997.96,247.76,No,Delivered,4.1,Debit Card
+ORD10403,2025-04-18,North,1003,45.0,Enterprise,Marketplace,Home & Kitchen,2,8932.0,25.0,13398.0,3215.52,2247.06,165.2,No,Delivered,3.8,Net Banking
+ORD10249,2025-05-09,South,1065,24.0,Consumer,Marketplace,Beauty,2,2185.0,0.0,4370.0,1966.5,838.23,123.85,No,Delivered,4.0,Credit Card
+ORD10039,2025-02-20,North,1037,41.0,SMB,Website,Sports,2,5061.0,10.0,9109.8,2915.14,491.47,111.63,No,Delivered,3.8,Net Banking
+ORD10243,2025-05-24,West,1082,31.0,SMB,Website,Home & Kitchen,4,8791.0,0.0,35164.0,8439.36,821.53,442.13,No,Delivered,4.5,COD
+ORD10354,2025-01-17,North,1063,29.0,SMB,Website,Home & Kitchen,3,10182.0,10.0,27491.4,6597.94,1135.41,471.22,No,Delivered,4.5,COD
+ORD10504,2025-01-29,South,1008,42.0,Consumer,Website,Beauty,2,2002.0,15.0,3403.4,1531.53,395.08,139.05,No,Delivered,4.1,Credit Card
+ORD10160,2025-03-16,East,1129,43.0,SMB,Marketplace,Fashion,2,3892.0,5.0,7394.8,2810.02,2772.68,190.24,Yes,Returned,4.8,Net Banking
+ORD10395,2025-06-19,North,1054,33.0,SMB,Website,Electronics,1,31666.0,10.0,28499.4,3989.92,454.74,445.24,No,Delivered,3.8,UPI
+ORD10241,2025-04-09,West,1029,45.0,Enterprise,Website,Electronics,2,23798.0,5.0,45216.2,6330.27,2350.14,266.56,No,Delivered,4.2,Credit Card
+ORD10014,2025-04-14,East,1077,19.0,SMB,Website,Electronics,4,26074.0,5.0,99081.2,13871.37,2890.57,397.91,No,Delivered,4.9,Credit Card
+ORD10476,2025-01-01,East,1092,38.0,Consumer,Marketplace,Fashion,1,3515.0,15.0,2987.75,1135.34,1696.47,159.9,Yes,Returned,3.9,COD
+ORD10528,2025-06-13,West,1057,55.0,Consumer,Website,Home & Kitchen,1,7708.0,5.0,7322.6,1757.42,2587.63,342.13,No,Delivered,3.9,COD
+ORD10315,2025-01-04,East,1032,42.0,Enterprise,Marketplace,Fashion,3,2878.0,5.0,8202.3,3116.87,468.77,424.88,Yes,Returned,3.3,Net Banking
+ORD10362,2025-01-26,North,1019,27.0,SMB,Website,Beauty,1,2023.0,15.0,1719.55,773.8,,208.91,No,Delivered,4.2,Credit Card
+ORD10321,2025-02-15,South,1141,59.0,Consumer,Mobile App,Electronics,2,33084.0,0.0,66168.0,9263.52,2086.6,440.45,No,Delivered,4.3,UPI
+ORD10356,2025-06-10,North,1104,42.0,SMB,Mobile App,Electronics,2,30796.0,10.0,55432.8,7760.59,1692.33,463.83,No,Delivered,3.9,COD
+ORD10035,2025-04-18,South,1100,32.0,SMB,Marketplace,Sports,1,3510.0,20.0,2808.0,898.56,675.97,380.46,No,Delivered,4.8,COD
+ORD10335,2025-06-10,East,1148,21.0,Enterprise,Marketplace,Fashion,1,2749.0,10.0,2474.1,940.16,1746.21,366.0,No,Delivered,4.3,Debit Card
+ORD10377,2025-05-22,South,1122,42.0,SMB,Website,Sports,2,3440.0,15.0,5848.0,1871.36,1073.48,137.64,No,Delivered,4.3,Debit Card
+ORD10185,2025-01-12,West,1125,20.0,Consumer,Website,Electronics,2,28281.0,25.0,42421.5,5939.01,2871.8,295.91,Yes,Delivered,2.7,Credit Card
+ORD10424,2025-03-04,South,1139,34.0,Consumer,Website,Fashion,4,3101.0,10.0,11163.6,4242.17,1347.15,218.0,No,Delivered,4.1,Net Banking
+ORD10326,2025-02-06,North,1046,19.0,Consumer,Marketplace,Beauty,1,1964.0,20.0,1571.2,707.04,372.54,333.22,No,Delivered,4.1,UPI
+ORD10188,2025-05-11,South,1020,54.0,Consumer,Mobile App,Beauty,1,2027.0,20.0,1621.6,729.72,1899.0,349.23,No,Delivered,4.6,Debit Card
+ORD10285,2025-02-02,West,1123,31.0,Consumer,Website,Fashion,1,3976.0,20.0,3180.8,1208.7,1863.21,191.53,No,Delivered,3.8,Net Banking
+ORD10392,2025-03-27,East,1018,52.0,Consumer,Marketplace,Sports,1,3534.0,5.0,3357.3,1074.34,2438.11,367.19,No,Delivered,4.6,Credit Card
+ORD10583,2025-05-02,East,1096,50.0,SMB,Website,Fashion,4,3437.0,15.0,11685.8,4440.6,1080.96,282.92,Yes,Delivered,2.5,Credit Card
+ORD10166,2025-05-01,South,1045,34.0,SMB,Retail Store,Electronics,4,32960.0,10.0,118656.0,16611.84,415.4,295.86,No,Delivered,4.5,Net Banking
+ORD10348,2025-06-24,South,1111,51.0,Consumer,Website,Fashion,1,2558.0,5.0,2430.1,923.44,2613.8,440.5,No,Delivered,4.4,Credit Card
+ORD10299,2025-01-22,East,1129,50.0,SMB,Website,Electronics,1,33667.0,5.0,31983.65,4477.71,1794.61,285.19,No,Delivered,4.1,UPI
+ORD10536,2025-06-01,North,1020,39.0,SMB,Marketplace,Fashion,3,3306.0,0.0,9918.0,3768.84,323.7,412.37,Yes,Delivered,3.5,COD
+ORD10230,2025-06-17,West,1093,59.0,Consumer,Website,Sports,1,4822.0,10.0,4339.8,1388.74,2526.98,393.57,No,Cancelled,4.1,COD
+ORD10042,2025-03-14,North,1134,39.0,Consumer,Website,Sports,1,5001.0,10.0,4500.9,1440.29,929.3,83.0,No,Delivered,4.6,Credit Card
+ORD10447,2025-01-16,South,1142,48.0,Consumer,Mobile App,Beauty,1,1395.0,0.0,1395.0,627.75,989.45,466.88,No,Delivered,4.3,Credit Card
+ORD10448,2025-03-10,West,1125,31.0,Consumer,Marketplace,Beauty,1,1768.0,20.0,1414.4,636.48,2535.54,489.96,No,Delivered,4.4,UPI
+ORD10350,2025-05-31,South,1103,41.0,SMB,Retail Store,Fashion,1,2978.0,20.0,2382.4,905.31,1629.38,409.39,No,Delivered,4.5,Credit Card
+ORD10046,2025-03-30,East,1125,44.0,Consumer,Mobile App,Sports,1,3315.0,15.0,2817.75,901.68,657.18,269.1,No,Delivered,4.4,UPI
+ORD10109,2025-01-12,North,1088,24.0,Consumer,Marketplace,Fashion,2,2558.0,20.0,4092.8,1555.26,1041.17,90.1,No,Delivered,4.0,COD
+ORD10030,2025-02-28,South,1084,43.0,SMB,Mobile App,Fashion,3,3125.0,0.0,9375.0,3562.5,1565.73,432.57,Yes,Delivered,3.0,Credit Card
+ORD10182,2025-04-23,East,1081,35.0,Consumer,Marketplace,Home & Kitchen,1,10576.0,10.0,9518.4,2284.42,1936.0,378.69,No,Cancelled,4.0,COD
+ORD10420,2025-06-07,West,1048,25.0,Consumer,Mobile App,Beauty,1,1963.0,15.0,1668.55,750.85,2473.82,340.29,No,Delivered,3.7,Net Banking
+ORD10105,2025-02-10,West,1130,59.0,SMB,Retail Store,Home & Kitchen,2,9676.0,20.0,15481.6,3715.58,2778.17,319.48,No,Delivered,4.0,Debit Card
+ORD10061,2025-06-13,North,1031,31.0,Consumer,Website,Home & Kitchen,4,7971.0,20.0,25507.2,6121.73,470.45,271.97,No,Delivered,3.9,Credit Card
+ORD10084,2025-05-04,South,1050,45.0,Consumer,Marketplace,Home & Kitchen,1,6610.0,15.0,5618.5,1348.44,1841.06,425.93,No,Delivered,4.2,Net Banking
+ORD10491,2025-02-02,South,1020,27.0,SMB,Retail Store,Fashion,1,3090.0,10.0,2781.0,1056.78,894.86,116.45,No,Delivered,4.5,Debit Card
+ORD10316,2025-02-04,East,1106,18.0,SMB,Marketplace,Beauty,2,1446.0,20.0,2313.6,1041.12,1346.16,487.19,Yes,Returned,4.1,COD
+ORD10451,2025-03-17,West,1143,33.0,SMB,Mobile App,Beauty,1,1607.0,0.0,1607.0,723.15,1558.88,396.56,No,Delivered,4.7,COD
+ORD10382,2025-03-07,North,1126,34.0,Enterprise,Mobile App,Fashion,3,3833.0,25.0,8624.25,3277.22,2807.21,220.24,No,Delivered,3.8,UPI
+ORD10423,2025-04-30,East,1068,30.0,Consumer,Marketplace,Beauty,3,1638.0,15.0,4176.9,1879.6,2712.19,224.19,No,Delivered,4.2,Debit Card
+ORD10497,2025-03-08,East,1098,48.0,Consumer,Marketplace,Electronics,1,27957.0,10.0,25161.3,3522.58,1738.63,171.69,No,Delivered,3.4,UPI
+ORD10575,2025-05-24,East,1025,24.0,SMB,Retail Store,Beauty,3,2073.0,5.0,5908.05,2658.62,1039.77,102.83,No,Delivered,4.7,Credit Card
+ORD10524,2025-06-06,East,1113,38.0,SMB,Mobile App,Fashion,2,3773.0,5.0,7168.7,2724.11,2987.88,268.7,No,Delivered,3.7,Debit Card
+ORD10446,2025-05-09,South,1058,24.0,SMB,Website,Sports,2,4907.0,,9323.3,2983.46,608.44,86.15,No,Delivered,3.8,Debit Card
+ORD10001,2025-04-13,North,1019,43.0,Consumer,Marketplace,Fashion,2,3007.0,15.0,5111.9,1942.52,2847.65,293.34,No,Delivered,4.3,COD
+ORD10590,2025-03-15,South,1105,22.0,SMB,Website,Home & Kitchen,1,9165.0,15.0,7790.25,1869.66,2119.9,133.68,No,Delivered,4.2,UPI
+ORD10458,2025-02-16,South,1144,34.0,Consumer,Marketplace,Home & Kitchen,2,10173.0,5.0,19328.7,4638.89,2848.2,462.89,No,Delivered,4.8,UPI
+ORD10489,2025-06-12,East,1066,34.0,Consumer,Website,Beauty,2,1522.0,5.0,2891.8,1301.31,472.48,432.81,No,Delivered,4.4,UPI
+ORD10089,2025-03-06,North,1116,43.0,SMB,Mobile App,Beauty,1,2237.0,15.0,1901.45,855.65,1685.04,267.97,Yes,Delivered,3.4,Net Banking
+ORD10484,2025-06-09,West,1075,22.0,SMB,Website,Fashion,2,3012.0,10.0,5421.6,2060.21,1431.67,295.57,No,Delivered,4.7,Debit Card
+ORD10461,2025-06-25,East,1003,40.0,SMB,Mobile App,Home & Kitchen,2,10383.0,20.0,16612.8,3987.07,1361.81,80.98,No,Delivered,4.6,UPI
+ORD10078,2025-02-09,South,1109,54.0,Consumer,Marketplace,Sports,2,3793.0,15.0,6448.1,2063.39,2315.18,309.87,No,Delivered,3.9,Debit Card
+ORD10269,2025-06-15,East,1080,53.0,Consumer,Marketplace,Electronics,1,25906.0,15.0,22020.1,3082.81,1870.22,354.04,No,Delivered,3.7,Net Banking
+ORD10124,2025-01-05,West,1095,50.0,Consumer,Website,Fashion,1,3544.0,15.0,3012.4,1144.71,1818.56,194.1,No,Delivered,4.2,UPI
+ORD10298,2025-04-29,East,1037,18.0,Enterprise,Mobile App,Fashion,2,2496.0,5.0,4742.4,1802.11,2776.5,325.71,No,Delivered,4.0,Credit Card
+ORD10096,2025-03-04,East,1071,24.0,Enterprise,Marketplace,Home & Kitchen,2,7309.0,5.0,13887.1,3332.9,925.97,278.34,No,Delivered,4.6,Credit Card
+ORD10012,2025-04-27,South,1033,25.0,Enterprise,Website,Beauty,1,2204.0,0.0,2204.0,991.8,1129.29,203.88,No,Delivered,4.8,Credit Card
+ORD10115,2025-02-06,West,1082,38.0,Consumer,Marketplace,Electronics,1,31928.0,10.0,28735.2,4022.93,2500.69,481.45,No,Delivered,4.5,COD
+ORD10429,2025-04-27,North,1073,30.0,Consumer,Website,Sports,1,4266.0,0.0,4266.0,1365.12,1153.19,357.36,No,Delivered,4.9,COD
+ORD10258,2025-05-11,East,1124,32.0,Enterprise,Marketplace,Home & Kitchen,1,7787.0,20.0,6229.6,1495.1,1772.82,297.68,No,Delivered,4.4,Net Banking
+ORD10353,2025-05-10,West,1070,39.0,Consumer,Website,Home & Kitchen,1,7337.0,20.0,5869.6,1408.7,1429.39,247.14,No,Delivered,3.9,COD
+ORD10532,2025-06-26,South,1111,46.0,SMB,Website,Sports,1,4339.0,5.0,4122.05,1319.06,2961.67,81.56,Yes,Delivered,3.1,COD
+ORD10170,2025-06-04,North,1146,27.0,Enterprise,Website,Fashion,1,3366.0,15.0,2861.1,1087.22,1586.62,453.39,No,Delivered,4.3,UPI
+ORD10240,2025-02-11,South,1101,48.0,Consumer,Mobile App,Fashion,1,3377.0,5.0,3208.15,1219.1,1720.42,443.82,No,Delivered,3.7,Credit Card
+ORD10278,2025-04-20,West,1141,23.0,Enterprise,Marketplace,Beauty,1,1600.0,10.0,1440.0,648.0,1918.31,206.76,No,Delivered,3.8,UPI
+ORD10161,2025-05-08,North,1073,45.0,Consumer,Website,Home & Kitchen,1,9527.0,10.0,8574.3,2057.83,2238.42,324.11,No,Cancelled,3.8,Credit Card
+ORD10074,2025-01-14,North,1067,20.0,Consumer,Mobile App,Electronics,1,27096.0,10.0,24386.4,3414.1,1047.55,477.06,Yes,Delivered,3.4,COD
+ORD10530,2025-04-11,East,1093,28.0,Consumer,Marketplace,Home & Kitchen,3,9340.0,20.0,22416.0,5379.84,2870.66,447.79,No,Delivered,4.1,COD
+ORD10063,2025-04-14,North,1141,37.0,Consumer,Website,Home & Kitchen,2,10134.0,15.0,17227.8,4134.67,1579.82,316.01,No,Delivered,4.3,COD
+ORD10493,2025-06-28,East,1072,40.0,Enterprise,Website,Electronics,2,23773.0,5.0,45168.7,6323.62,576.39,149.27,Yes,Delivered,2.7,COD
+ORD10048,2025-01-14,East,1090,45.0,Consumer,Website,Home & Kitchen,3,6778.0,15.0,17283.9,4148.14,1873.1,227.79,No,Delivered,4.9,COD
+ORD10597,2025-05-17,West,1033,21.0,SMB,Website,Sports,1,4210.0,10.0,3789.0,1212.48,992.32,243.92,No,Delivered,4.2,COD
+ORD10506,2025-01-12,East,1116,53.0,Consumer,Retail Store,Sports,1,3865.0,0.0,3865.0,1236.8,2465.5,223.53,No,Delivered,4.8,COD
+ORD10021,2025-06-07,East,1113,40.0,SMB,Website,Sports,4,5196.0,10.0,18705.6,5985.79,1384.84,385.29,No,Delivered,4.7,Debit Card
+ORD10425,2025-01-19,South,1125,56.0,SMB,Website,Beauty,3,2159.0,0.0,6477.0,2914.65,1077.28,332.95,No,Delivered,4.1,COD
+ORD10193,2025-04-23,East,1132,43.0,Consumer,Website,Sports,3,3637.0,15.0,9274.35,2967.79,2067.76,239.97,Yes,Cancelled,2.6,Debit Card
+ORD10216,2025-04-07,East,1056,28.0,Consumer,Website,Electronics,2,30442.0,5.0,57839.8,8097.57,2373.52,383.41,Yes,Returned,4.7,UPI
+ORD10245,2025-04-22,East,1106,32.0,Consumer,Retail Store,Sports,3,3593.0,15.0,9162.15,2931.89,1575.79,493.24,No,Delivered,3.8,COD
+ORD10364,2025-02-19,East,1023,44.0,SMB,Website,Home & Kitchen,1,7422.0,15.0,6308.7,1514.09,1799.84,224.08,No,Delivered,4.6,UPI
+ORD10060,2025-03-22,South,1052,29.0,Consumer,Website,Beauty,1,1965.0,15.0,1670.25,751.61,1422.83,473.05,No,Delivered,3.9,Net Banking
+ORD10222,2025-06-13,North,1060,30.0,SMB,Mobile App,Beauty,1,1771.0,20.0,1416.8,637.56,2530.04,255.71,No,Delivered,3.7,COD
+ORD10177,2025-02-28,North,1016,43.0,SMB,Mobile App,Fashion,4,3830.0,5.0,14554.0,5530.52,2558.34,425.14,No,Delivered,4.5,Credit Card
+ORD10450,2025-04-03,East,1084,60.0,SMB,Mobile App,Electronics,1,25432.0,10.0,22888.8,3204.43,2949.19,167.4,No,Delivered,3.8,Debit Card
+ORD10056,2025-06-21,East,1012,55.0,Enterprise,Marketplace,Fashion,3,3505.0,10.0,9463.5,3596.13,752.14,99.76,Yes,Delivered,3.2,COD
+ORD10255,2025-04-09,East,1087,47.0,SMB,Marketplace,Home & Kitchen,2,7577.0,10.0,13638.6,3273.26,1273.06,319.11,No,Delivered,4.7,Net Banking
+ORD10386,2025-06-02,South,1038,58.0,SMB,Marketplace,Home & Kitchen,1,8744.0,25.0,6558.0,1573.92,2179.72,382.7,No,Delivered,3.8,Debit Card
+ORD10198,2025-05-09,South,1033,58.0,Consumer,Website,Electronics,4,24319.0,20.0,77820.8,10894.91,2441.45,196.87,No,Delivered,3.8,Net Banking
+ORD10069,2025-01-04,North,1010,27.0,SMB,Website,Home & Kitchen,1,9006.0,10.0,8105.4,1945.3,2507.58,185.37,No,Delivered,4.4,Debit Card
+ORD10169,2025-04-13,West,1150,21.0,Enterprise,Marketplace,Beauty,2,2163.0,5.0,4109.7,1849.36,764.07,215.66,No,Delivered,4.4,Credit Card
+ORD10186,2025-02-08,North,1066,21.0,Consumer,Website,Fashion,1,3235.0,10.0,2911.5,1106.37,2337.25,407.33,Yes,Delivered,3.3,Credit Card
+ORD10036,2025-02-24,North,1043,30.0,Consumer,Website,Home & Kitchen,3,8303.0,15.0,21172.65,5081.44,1952.42,488.77,No,Cancelled,3.9,Net Banking
